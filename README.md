@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @phdonner
-- 👀 I’m interested in developing opto fiber network maintenance software, LoRaWan development
-- 🌱 I’m currently learning how to use GitHub as a developer resource
-- 💞️ I’m looking to collaborate on PowerShell automation
-- 📫 How to reach me eg through pdonner on the TTN forum
+- 👀 My primary occupation is development of opto fiber network maintenance systems and tools
+- 🌱 I’m currently learning how to use GitHub and related tools as resources for information society construction
+- 💞️ Would like to collaborate on development of PowerShell automation to empower rural developers
+- 📫 How to reach me: Try pdonner at the cooperative's nettinoste.fi domain
 
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
