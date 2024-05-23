@@ -4,7 +4,7 @@ Right now my primary occupation is development of opto fiber network maintenance
 
 Would like to collaborate with others willing to contribute in development of PowerShell automation tools as a way of empowering rural developers. Here I will produce a tutorial on methods of setting up a low-cost computer environment enabling rural developers to produce HTML pages without resorting to commercial services, such as Facebook.
 
-When I started this README I received a lot of redundant imaages which looked emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 
+When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 
 
 It would be interesting to know if there are some more expressive visual characters, as well?
 
