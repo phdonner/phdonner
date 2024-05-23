@@ -1,4 +1,5 @@
-- Hi, I’m @phdonner
+- Hi, here @ GitHub I’m @phdonner. In most other sites I would use the signature pdonner
+- 
 - My primary occupation is development of opto fiber network maintenance systems and tools
 - I’m currently learning how to use GitHub and related tools as resources for information society construction
 - Would like to collaborate on development of PowerShell automation to empower rural developers
