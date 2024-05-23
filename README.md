@@ -7,7 +7,7 @@ Hi, here @GitHub I’m @phdonner. In most other sites I would use the signature 
 
 When I started this README I received a lot of redundant imaages which looked emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 
 
-It would be interesting to know if there are some more expressive ones as well?
+It would be interesting to know if there are some more expressive visual characters,as well?
 
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
