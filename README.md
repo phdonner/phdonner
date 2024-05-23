@@ -5,7 +5,7 @@ Hi, here @GitHub I’m @phdonner. In most other sites I would use the signature 
 - Would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers
 - How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. Im reading those messages once or twice every week.
 
-When I started this README I received a lot of redundant imagary. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 
+When I started this README I received a lot of redundant emoji ;) imagary. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 
 
 It would be interesting to know if there are some more expressive ones as well?
 
