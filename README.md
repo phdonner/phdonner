@@ -8,7 +8,7 @@ When I started this README I received a lot of redundant imaages which looked em
 
 It would be interesting to know if there are some more expressive visual characters, as well?
 
-How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. Im reading those messages once or twice every week.
+How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is a lot of spam, but I'm reading those messages once or twice every week.
 
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
