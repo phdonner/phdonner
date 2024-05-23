@@ -6,7 +6,7 @@ Would like to collaborate with others willing to contribute in development of Po
 
 When I started this README I received a lot of redundant imaages which looked emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 
 
-It would be interesting to know if there are some more expressive visual characters,as well?
+It would be interesting to know if there are some more expressive visual characters, as well?
 
 How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. Im reading those messages once or twice every week.
 
