@@ -10,7 +10,7 @@ The next subheadings are a list of some of the immediate tasks that we are facin
 
 ## Git and GitHub
 
-Here at GitHub I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction. This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
+Git, GitHub and related open source tools and services which could be beneficial in information society construction. This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
 
 ---
 
