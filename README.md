@@ -14,7 +14,7 @@ This is an experimental site. So don't expect that the content would be static s
 
 ## Markdown, Powershell, HTML
 
-Would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. Here I'll start by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook.
+I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. Here I'll start by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook.
 
 ---
 
