@@ -4,7 +4,7 @@ Hi, @GitHub I’m phdonner. In most other sites I would use the signature pdonne
 
 Right now my primary occupation is development of opto fiber network maintenance systems and tools. Here I’m currently learning how to use GitHub and related open source tools and services which could be beneficial in information society construction.
 
-Would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. Here I'll start by producing a tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages without resorting to commercial services, such as Facebook.
+Would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. Here I'll start by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages without resorting to commercial services, such as Facebook.
 
 ---
 
