@@ -1,7 +1,5 @@
 ## Introduction
 
-Hi, @GitHub I’m phdonner. In most other sites I would use the signature pdonner
-
 My native language is Swedish, but I was born in Tampere which is a predominantly Finnish city. Therefore most of us had bilingual competence as a gift. I've been working quite a lot in English speaking communities, but unidiomatic use of English will hopefully still be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed corrections will be most gratefully received.
 
 Right now my primary occupation is development of opto fiber network maintenance systems and tools. I'm doing more or less full-time voluntary work for our rural network cooperative: Luoteis-Kuhmon kyläverkko-osuuskunta. The cooperative is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions.
@@ -12,9 +10,7 @@ The next subheadings are a list of some of the immediate tasks that we should ta
 
 ## Git and GitHub
 
-Right now my primary occupation is development of opto fiber network maintenance systems and tools. Here at GitHub I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction. 
-
-This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
+Here at GitHub I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction. This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
 
 ---
 
