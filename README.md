@@ -2,21 +2,23 @@ Hi, @GitHub I’m phdonner. In most other sites I would use the signature pdonne
 
 My native language is Swedish, but I was born in Tampere which is a predominantly Finnish city. Therefore most of us had bilingual competence as a gift. I've been working quite a lot in English speaking communities, but unidiomatic use of English will hopefully still be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed corrections will be most gratefully received.
 
-Right now my primary occupation is development of opto fiber network maintenance systems and tools. I'm doing more or less full-time voluntary work for a rural network cooperative which is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work we have been doing. It is a mix of Finnish and English content with summaries in both directions.
+Right now my primary occupation is development of opto fiber network maintenance systems and tools. I'm doing more or less full-time voluntary work for out rural network cooperative: Luoteis-Kuhmon kyläverkko-osuuskunta. The cooperative is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions.
 
 ---
 
 ## Git and GitHub
 
-Right now my primary occupation is development of opto fiber network maintenance systems and tools. Here I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction.
+Right now my primary occupation is development of opto fiber network maintenance systems and tools. Here at GitHub I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction. 
 
-This is an experimental site. So don't expect that the content would be static somehow. On the contrary: If the structure and the content developes dynamically, then that could be taken as a sign of active and perhaps even productive work.
+This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
 
 ---
 
 ## Markdown, Powershell, HTML
 
-I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. Here I'll start by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook.
+Our project is based on the assumption that we are experiencing the first phases of an emerging mode of prodoction. In the information society, the major aspects of production are dependent on information technology. We don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools can be an asset in rural, scarcely populated environments.
+
+I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook. Let's see where the project takes us.
 
 ---
 
