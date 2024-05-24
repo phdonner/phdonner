@@ -8,7 +8,7 @@ My native language is Swedish, but I was born in Tampere which is a predominantl
 
 Right now my primary occupation is development of opto fiber network maintenance systems and tools. Here I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction.
 
-This is an experimental site. So don't expect that the content would be static somehow. On the contrary: if the structure and the content developes dynamically, then that could be taken as a sign of productive work.
+This is an experimental site. So don't expect that the content would be static somehow. On the contrary: If the structure and the content developes dynamically, then that could be taken as a sign of active and perhaps even productive work.
 
 ---
 
