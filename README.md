@@ -1,6 +1,6 @@
 Hi, @GitHub I’m phdonner. In most other sites I would use the signature pdonner
 
-My native language is Swedish, but I was born in Tampere which is a predominantly Finnish city. Therefore most of us had natively bilingual competence. Poor use of English will hopefully be excused. You can be confident that politely expressed corrections will be most gratefully received.
+My native language is Swedish, but I was born in Tampere which is a predominantly Finnish city. Therefore most of us had bilingual competence as a gift. I've been working quite a lot in English speaking communities, but unidiomatic use of English will hopefully still be excused. You can be confident that politely expressed corrections will be most gratefully received.
 
 ---
 
