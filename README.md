@@ -32,7 +32,7 @@ When I started this README I received a lot of redundant images, which looked li
 
 ## Contact information
 
-How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is a lot of spam, but I'm reading those messages once or twice every week. 
+How you should be able to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is a lot of spam, but I'm reading those messages once or twice every week. 
 
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
