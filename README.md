@@ -1,9 +1,14 @@
 Hi, @GitHub I’m phdonner. In most other sites I would use the signature pdonner
 
+My native language is Swedish, but I was born in Tampere which is a predominantly Finnish city. Therefore most of us had natively bilingual competence. Poor use of English will hopefully be excused. You can be confident that politely expressed corrections will be most gratefully received.
+
 ---
+
 ## Git and GitHub
 
 Right now my primary occupation is development of opto fiber network maintenance systems and tools. Here I’m currently learning how to use Git, GitHub and related open source tools and services which could be beneficial in information society construction.
+
+This is an experimental site. So don't expect that the content would be static somehow. On the contrary: if the structure and the content developes dynamically, then that could be taken as a sign of productive work.
 
 ---
 
