@@ -20,7 +20,7 @@ Would like to collaborate with others willing to contribute in development of Po
 
 ## Multilingual Markdown
 
-The tutorial will be published at least in English and Finnish, which presents some challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing the solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project.
+The tutorial will be published at least in English and Finnish, which is an aim that presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing the solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project.
 
 ---
 
