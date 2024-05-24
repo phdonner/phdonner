@@ -6,7 +6,7 @@ Would like to collaborate with others willing to contribute in development of Po
 
 When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 👋 👀 🌱 💞️ 📫 🌷 🌼 🌻. OK, they are provided by the Segoe UI Emoji font, but why are the characters sometimes rendered with colors, and sometimes in black and white?
 
-How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is a lot of spam, but I'm reading those messages once or twice every week.
+How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is a lot of spam, but I'm reading those messages once or twice every week. 
 
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
