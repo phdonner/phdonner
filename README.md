@@ -4,6 +4,8 @@ Right now my primary occupation is development of opto fiber network maintenance
 
 Would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. Here I'll start by producing a tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages without resorting to commercial services, such as Facebook.
 
+---
+
 When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 👀 🌱 💞️ 📫 🌷 🌼 🌻. OK, some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar projects (cf. [Emoji Objects](https://emojipedia.org/objects), [Open Source OpenMoji](https://openmoji.org/) contains literally thousands of them). But why are the characters sometimes rendered with colors, and sometimes in black and white?
 
 How to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is a lot of spam, but I'm reading those messages once or twice every week. 
