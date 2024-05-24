@@ -4,6 +4,8 @@ My native language is Swedish, but I was born in Tampere which is a predominantl
 
 Right now my primary occupation is development of opto fiber network maintenance systems and tools. I'm doing more or less full-time voluntary work for out rural network cooperative: Luoteis-Kuhmon kyläverkko-osuuskunta. The cooperative is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions.
 
+The next subheadings are a list of some of the immediate tasks that we should tackle.
+
 ---
 
 ## Git and GitHub
@@ -24,7 +26,7 @@ I would like to collaborate with others willing to contribute in development of 
 
 ## Multilingual Markdown
 
-The tutorial will be published at least in English and Finnish, which is an aim that presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing the solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project.
+In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique endevour, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
 
 ---
 
