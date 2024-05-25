@@ -28,11 +28,11 @@ Markdown is an asset in information society construction. Apart from providing w
 
 ---
 
-## Convert HTML from Markdown with Powershell
+## Convert Markdown to HTML with PowerShell
 
-I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. 
+PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but seems to be quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for Raspberry Pi users.
 
-Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook. Let's see where the project takes us.
+I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook. Let's see where the project takes us.
 
 ---
 
