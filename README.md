@@ -20,9 +20,15 @@ Here at GitHub I’m currently trying to discover how Git, GitHub and related op
 
 ---
 
-## Markdown, Powershell, HTML
+## Markdown
 
 Our project is based on the assumption that we are experiencing the first phases of an emerging mode of production. In the information society, the major aspects of production are dependent on information technology. We don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools can be an asset in rural, scarcely populated environments.
+
+Markdown is an asset in information society construction. Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications.
+
+---
+
+## Convert HTML from Markdown with Powershell
 
 I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook. Let's see where the project takes us.
 
