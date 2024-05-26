@@ -28,6 +28,12 @@ Markdown is an asset in information society construction. Apart from providing w
 
 ---
 
+## Comments in Markdown
+
+One of the first observations I made while outlining the concept framework, was the fact that the author of the language hadn't provided a way of commenting Markdown content; a way of jotting down thoughts to be remembered by the author but not shown to readers of the document. There is an [interesting discussion on this topic](https://stackoverflow.com/questions/4823468/comments-in-markdown) at the Stack Overflow site which could be followed up with additional experiments.
+
+---
+
 ## PowerShell and Visual Studio
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
