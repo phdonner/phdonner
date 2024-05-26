@@ -50,7 +50,7 @@ mindmap
         {{Hexagon}}
 ```
 
-This diagramming and charting functionality depends on JavaScript. In order to use such mind maps outside GitHub, we would need to know how the package is installed on the local machine and on our web server.
+This diagramming and charting functionality depends on JavaScript. In order to use such mindmaps outside GitHub, we would need to know how the package is installed on the local machine and on our web server.
 
 ---
 
