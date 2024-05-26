@@ -10,7 +10,7 @@ I've been working quite a lot in English speaking communities, but unidiomatic u
 
 Right now my primary occupation is development of fiber optic network maintenance systems and tools. I'm doing more or less full-time voluntary work for our rural network cooperative: Luoteis-Kuhmon kyläverkko-osuuskunta. The cooperative is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions.
 
-The next subheadings are a list of some of the immediate tasks that we are facing right now.
+The next subheadings are a list of some of the immediate tasks that we are facing right now.  
 
 ---
 
