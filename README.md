@@ -30,7 +30,7 @@ Markdown is an asset in information society construction. Apart from providing w
 
 ## Comments in Markdown
 
-One of the first observations I made while outlining the concept framework, was the fact that the author of the language hadn't provided a way of commenting Markdown content. It could be useful to have a way of jotting down preliminary thoughts and interesting sources to be remembered by the author, but which wouldn't be shown to readers of the rendered document. There is an [interesting discussion on this topic](https://stackoverflow.com/questions/4823468/comments-in-markdown) at the Stack Overflow site which could be followed up by further debate and additional experiments.
+One of the first observations I made while outlining the concept framework, was the fact that the author of the language hadn't provided a way of commenting Markdown content. It could be useful to have a way of jotting down preliminary thoughts, interesting sources and of course comments to be remembered by the author, but which wouldn't be shown to readers of the rendered document. There is an [interesting discussion on this topic](https://stackoverflow.com/questions/4823468/comments-in-markdown) at the Stack Overflow site which could be followed up by further debate and additional experiments.
 
 ---
 
