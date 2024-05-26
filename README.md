@@ -10,7 +10,13 @@ I've been working quite a lot in English speaking communities, but unidiomatic u
 
 Right now my primary occupation is development of fiber optic network maintenance systems and tools. I'm doing more or less full-time voluntary work for our rural network cooperative: Luoteis-Kuhmon kyläverkko-osuuskunta. The cooperative is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions.
 
-Planning is a conceptual activity. To be effective, we are trying to outline a workflow which will guide our work. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.  
+---
+
+## How to convert Markdown to HTML with PowerShell?
+
+I would like to collaborate with other devlopers willing to contribute in making PowerShell automation to a way of empowering rural developers. It could be important to state an example of how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a simple test case. It is a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
+
+Planning is a conceptual activity. To be effective, we are trying to outline a workflow which will guide our work. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now. O
 
 ```mermaid
 flowchart LR
@@ -87,12 +93,6 @@ This diagramming and charting functionality depends on JavaScript. In order to u
 ## PowerShell
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
-
----
-
-## Convert Markdown to HTML with PowerShell
-
-I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
 ---
 
