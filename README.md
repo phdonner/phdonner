@@ -34,7 +34,9 @@ One of the first observations I made while outlining the concept framework, was 
 
 ---
 
-## Markdown MindMaps
+## Mermaid Markdown mindmaps on GitHub
+
+GitHub supports a convenient way of creating the mind maps needed during our planning. It is called *Mermaid*. Again, the notation is rather easy to learn way.
 
 ```mermaid
 mindmap
@@ -47,6 +49,8 @@ mindmap
         )Cloud(
         {{Hexagon}}
 ```
+
+This diagramming and charting functionality depends on JavaScript. In order to use such mind maps outside GitHub, we would need to know how the package is installed on the local machine and on our web server.
 
 ---
 
