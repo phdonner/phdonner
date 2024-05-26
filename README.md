@@ -13,19 +13,11 @@ Right now my primary occupation is development of fiber optic network maintenanc
 Planning is a conceptual activity. To be effective, we are trying to outline a workflow which will guide our work. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.  
 
 ```mermaid
-graph TD;
-'Visual Studio Code'-->'Git and GitHub';
+graph TD
+    ['Visual Studio Code']-->['Git and GitHub']
 ```
 
 ---
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 
 ## Git and GitHub
 
