@@ -14,8 +14,9 @@ Planning is a conceptual activity. To be effective, we are trying to outline a w
 
 ```mermaid
 flowchart LR
-    id1[Visual Studio Code]
+    id1(Visual Studio Code)
     id2[Git and GitHub]
+    
 ```
 
 ---
