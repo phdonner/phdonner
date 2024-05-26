@@ -34,9 +34,9 @@ One of the first observations I made while outlining the concept framework, was 
 
 ---
 
-## Mermaid Markdown mindmaps on GitHub
+## Markdown inspired Mermaid diagrams on GitHub
 
-GitHub supports a convenient way of creating the mind maps needed during our planning. It is called *Mermaid*. You can design many diagram flavors: flow charts, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn. Study the markdown code behind the example diagram by copying it to text processor and you'll see that the basic symbols are quite easy to learn.
+GitHub supports a convenient way of creating the mindmaps needed during our planning. It is called *Mermaid*. You can design diagram in many flavors: mindmaps, flow charts, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn. Study the markdown code behind the example diagram by copying it to text processor and you'll see that the basic symbols are quite easy to learn.
 
 ```mermaid
 mindmap
