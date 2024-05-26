@@ -10,8 +10,13 @@ I've been working quite a lot in English speaking communities, but unidiomatic u
 
 Right now my primary occupation is development of fiber optic network maintenance systems and tools. I'm doing more or less full-time voluntary work for our rural network cooperative: Luoteis-Kuhmon kyläverkko-osuuskunta. The cooperative is preparing a smart rural project. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions.
 
-Planning is a conceptual activity. To be effective, we are trying to outline a structure which will guide our work. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.  
+Planning is a conceptual activity. To be effective, we are trying to outline a workflow which will guide our work. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.  
 
+```memaid
+
+(Visual Studio Code) (Git and GitHub) (Markdown) (PowerShell) (HTML)
+
+```
 ---
 
 ## Git and GitHub
@@ -31,6 +36,20 @@ Markdown is an asset in information society construction. Apart from providing w
 ## Comments in Markdown
 
 One of the first observations I made while outlining the concept framework, was the fact that the author of the language hadn't provided a way of commenting Markdown content. It could be useful to have a way of jotting down preliminary thoughts, interesting sources and of course comments to be remembered by the author, but which wouldn't be shown to readers of the rendered document. There is an [interesting discussion on this topic](https://stackoverflow.com/questions/4823468/comments-in-markdown) at the Stack Overflow site which could be followed up by further debate and additional experiments.
+
+---
+
+## Multilingual Markdown
+
+In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
+
+---
+
+## Emoji fonts in Markdown and on WWW pages
+
+When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. OK, some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar projects (cf. [Emoji Objects](https://emojipedia.org/objects), [Open Source OpenMoji](https://openmoji.org/) contains literally thousands of them). 
+
+As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
 
 ---
 
@@ -54,21 +73,7 @@ This diagramming and charting functionality depends on JavaScript. In order to u
 
 ---
 
-## Multilingual Markdown
-
-In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
-
----
-
-## Emoji fonts in Markdown and on WWW pages
-
-When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. OK, some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar projects (cf. [Emoji Objects](https://emojipedia.org/objects), [Open Source OpenMoji](https://openmoji.org/) contains literally thousands of them). 
-
-As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
-
----
-
-## PowerShell and Visual Studio
+## PowerShell and Visual Studio Code
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
