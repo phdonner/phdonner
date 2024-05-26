@@ -15,9 +15,17 @@ Planning is a conceptual activity. To be effective, we are trying to outline a w
 ```mermaid
 flowchart LR
     id1(Visual Studio Code)
-    id2[Git and GitHub]
-    
+    id2(Git and GitHub)
+    id3(Markdown)
+    id4(Powershell)
+    id5(HTML)
 ```
+
+---
+
+## Visual Studio Code
+
+Before the appearance of the open source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance treshold was low. 
 
 ---
 
@@ -75,7 +83,7 @@ This diagramming and charting functionality depends on JavaScript. In order to u
 
 ---
 
-## PowerShell and Visual Studio Code
+## PowerShell
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
