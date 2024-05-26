@@ -36,7 +36,7 @@ One of the first observations I made while outlining the concept framework, was 
 
 ## Markdown MindMaps
 
-```
+```mermaid
 mindmap
     Shapes
         Default
