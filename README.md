@@ -14,7 +14,7 @@ Planning is a conceptual activity. To be effective, we are trying to outline a w
 
 ```mermaid
 graph TD;
-Visual Studio Code-->Git and GitHub-->Markdown-->PowerShell-->HTML;
+Visual Studio Code-->Git and GitHub;
 ```
 
 ---
