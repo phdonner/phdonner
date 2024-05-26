@@ -34,18 +34,6 @@ One of the first observations I made while outlining the concept framework, was 
 
 ---
 
-## PowerShell and Visual Studio
-
-PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
-
----
-
-## Convert Markdown to HTML with PowerShell
-
-I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
-
----
-
 ## Multilingual Markdown
 
 In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
@@ -57,6 +45,18 @@ In line with earlier work, the tutorial will be published at least in English an
 When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. OK, some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar projects (cf. [Emoji Objects](https://emojipedia.org/objects), [Open Source OpenMoji](https://openmoji.org/) contains literally thousands of them). 
 
 As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
+
+---
+
+## PowerShell and Visual Studio
+
+PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned inte a crossplatform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
+
+---
+
+## Convert Markdown to HTML with PowerShell
+
+I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
 ---
 
