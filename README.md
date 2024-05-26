@@ -36,7 +36,7 @@ PowerShell is a scripting language created by developers at Microsoft, but nowad
 
 ## Convert Markdown to HTML with PowerShell
 
-I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook. Let's see where the project takes us.
+I would like to collaborate with others willing to contribute in development of PowerShell automation as a way of empowering rural developers. We would like to state an example how bottom-up oriented, open source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Here I'll start quite modestly by producing a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
 ---
 
