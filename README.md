@@ -74,7 +74,7 @@ As you can see: Here at GitHub the emoji characters can be embedded straight int
 
 ## Mermaid diagrams in Visual Studio Code and on GitHub
 
-GitHub supports a convenient Markdown inspired way of creating the mindmaps needed during our planning. It is called *Mermaid*. You can design diagram in many flavors: mindmaps, flow charts, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn (cf. the (Mermaid cheat sheet)[https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/]). Study the markdown code behind the example diagram by copying it to text processor and you'll see that the basic symbols are quite easy to learn.
+GitHub supports a convenient Markdown inspired way of creating the mindmaps needed during our planning. It is called *Mermaid*. You can design diagram in many flavors: mindmaps, flow charts, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn (cf. the [Mermaid cheat sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)). Study the markdown code behind the example diagram by copying it to text processor and you'll see that the basic symbols are quite easy to learn.
 
 ```mermaid
 mindmap
