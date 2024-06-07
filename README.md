@@ -32,7 +32,7 @@ flowchart LR
 
 ## Visual Studio Code
 
-Before the appearance of the open source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance treshold was low. 
+Before the appearance of the open source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance treshold was low. With COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open source and cross-platform development were most welcome moves.
 
 ---
 
