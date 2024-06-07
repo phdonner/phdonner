@@ -99,7 +99,8 @@ PowerShell is a scripting language created by developers at Microsoft, but nowad
 Starting apparently with PowerShell 7.3 PowerShell has integrated some useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code.
 
 > `# Render Markdown content in Visual Studio Code
-> Show-Markdown -Path .\page.md  
+> Show-Markdown -Path .\page.md
+> 
 > `# Render Markdown content in the current browser
 > Show-Markdown -Path .\page.md -UseBrowser
 
