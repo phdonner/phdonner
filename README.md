@@ -60,6 +60,8 @@ To take advantage of some of the more interesting features of Markdown I concept
 * Mermaid diagrams for Visual Studio Code and GitHub documentation
 * Transforming Markdown with PowerShell
 
+To the [Markdown section](https://github.com/phdonner/mattcone/blob/main/README.md) of NOSTERIIHI
+
 ---
 
 ## Comments in Markdown
