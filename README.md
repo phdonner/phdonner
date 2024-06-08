@@ -64,46 +64,6 @@ To the [Markdown section](https://github.com/phdonner/mattcone/blob/main/README.
 
 ---
 
-## Comments in Markdown
-
-One of the first observations I made while outlining the concept framework, was the fact that the author of the language hadn't provided a way of commenting Markdown content. It could be useful to to be able to jot down preliminary thoughts, interesting sources - and of course comments. They should be easily accessible to be remembered by the author, while not immediately visible to readers of the rendered document. There is an [interesting discussion on this topic](https://stackoverflow.com/questions/4823468/comments-in-markdown) at the Stack Overflow site which could be followed up by further debate and additional experiments.
-
----
-
-## Multilingual Markdown
-
-In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
-
----
-
-## Emoji fonts in Markdown and on WWW pages
-
-When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. OK, some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar projects (cf. [Emoji Objects](https://emojipedia.org/objects), [Open Source OpenMoji](https://openmoji.org/) contains literally thousands of them). 
-
-As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
-
----
-
-## Mermaid diagrams for Visual Studio Code and GitHub documentation
-
-GitHub supports a convenient Markdown inspired way of creating the mindmaps needed during our planning. It is called *Mermaid*. You can design diagram in many flavors: mindmaps, flow charts, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn (cf. the [Mermaid cheat sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) at the Jekyll site). Study the markdown code behind the example diagram by copying it to text processor. You'll see that the basic symbols are quite easy to learn.
-
-```mermaid
-mindmap
-    Shapes
-        Default
-        [Square]
-        (Rounded)
-        ((Circle))
-        ))Bang((
-        )Cloud(
-        {{Hexagon}}
-```
-
-This diagramming and charting functionality depends on JavaScript. In order to use such mindmaps outside GitHub, we would need to know how the package is installed on the local machine and on our web server.
-
----
-
 ## Transforming Markdown with PowerShell
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
