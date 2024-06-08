@@ -52,13 +52,13 @@ Markdown is an asset in information society construction. Apart from providing w
 
 Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
-To take advantage of some of the most interesting features of Mardown I conceptualized the following subtopics of this theme:
+To take advantage of some of the more interesting features of Markdown I conceptualized the following subtopics of this theme:
 
 * Comments in Markdown
 * Multilingual Markdown
 * Emoji fonts in Markdown and on WWW pages
 * Mermaid diagrams for Visual Studio Code and GitHub documentation
-* Markdown with PowerShell
+* Transforming Markdown with PowerShell
 
 ---
 
@@ -102,7 +102,7 @@ This diagramming and charting functionality depends on JavaScript. In order to u
 
 ---
 
-## Markdown with PowerShell
+## Transforming Markdown with PowerShell
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
