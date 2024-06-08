@@ -100,7 +100,7 @@ This diagramming and charting functionality depends on JavaScript. In order to u
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
-Starting apparently with PowerShell 7.3 PowerShell has integrated some useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code.
+Starting with version 7.2 PowerShell PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code.
 
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
@@ -110,7 +110,7 @@ Starting apparently with PowerShell 7.3 PowerShell has integrated some useful fu
 
 Even more useful is the conversion command `ConvertFrom-Markdown` which translates a Markdown page into HTML usable at your WWW site. Here you are:
 
-    # Translate Markdown to HTML which is usable as a WWW page in a HTTP service
+    # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
 ---
