@@ -50,9 +50,15 @@ Our project is based on the assumption that we are experiencing the first phases
 
 Markdown is an asset in information society construction. Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications.
 
-Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see the source.
+Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
+To take advantage of some of the most interesting features of Mardown I conceptualized the following subtopics of this theme:
 
+* Comments in Markdown
+* Multilingual Markdown
+* Emoji fonts in Markdown and on WWW pages
+* Mermaid diagrams for Visual Studio Code and GitHub documentation
+* Markdown with PowerShell
 
 ---
 
@@ -76,7 +82,7 @@ As you can see: Here at GitHub the emoji characters can be embedded straight int
 
 ---
 
-## Mermaid diagrams in Visual Studio Code and on GitHub
+## Mermaid diagrams for Visual Studio Code and GitHub documentation
 
 GitHub supports a convenient Markdown inspired way of creating the mindmaps needed during our planning. It is called *Mermaid*. You can design diagram in many flavors: mindmaps, flow charts, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn (cf. the [Mermaid cheat sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) at the Jekyll site). Study the markdown code behind the example diagram by copying it to text processor. You'll see that the basic symbols are quite easy to learn.
 
@@ -96,7 +102,7 @@ This diagramming and charting functionality depends on JavaScript. In order to u
 
 ---
 
-## PowerShell
+## Markdown with PowerShell
 
 PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
