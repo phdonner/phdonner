@@ -46,7 +46,7 @@ At GitHub I’m currently trying to discover how Git, GitHub and related open-so
 
 ## Markdown
 
-Our project is based on the assumption that we are experiencing the first phases of an emerging mode of production. In the information society, the major aspects of production are dependent on information technology. We don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools can be an asset in rural, scarcely populated environments.
+Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, the major aspects of production are dependent on information technology. We don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools can be an asset in rural, scarcely populated environments.
 
 Markdown is an asset in information society construction. Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications.
 
