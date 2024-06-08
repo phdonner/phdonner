@@ -106,7 +106,7 @@ Starting apparently with PowerShell 7.3 PowerShell has integrated some useful fu
 
 Even more useful is the conversion command `ConvertFrom-Markdown` which translates a Markdown page into HTML usable at your WWW site. Here you are:
 
-    # Translage Markdown to HTML usable for WWW in a HTTP service
+    # Translate Markdown to HTML which is usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
 ---
