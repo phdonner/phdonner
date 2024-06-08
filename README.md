@@ -50,7 +50,7 @@ Our project is based on the assumption that we are experiencing the first phases
 
 Markdown is an asset in information society construction. Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications.
 
-Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee)
+Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see the source.
 
 ---
 
