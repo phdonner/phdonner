@@ -104,7 +104,10 @@ Starting apparently with PowerShell 7.3 PowerShell has integrated some useful fu
     # Render Markdown content in the current browser:
     Show-Markdown -Path .\page.md -UseBrowser
 
-Even more remarkable is the conversion command (`ConvertFrom-Markdown`) which integrates Markdown with PowerShell's HTML functionality.
+Even more useful is the conversion command `ConvertFrom-Markdown` which translates a Markdown page into HTML usable at your WWW site. Here you are:
+
+    # Translage Markdown to HTML usable for WWW in a HTTP service
+    ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
 ---
 
