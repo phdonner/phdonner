@@ -36,18 +36,6 @@ style id3 fill:#f9f;
 
 ---
 
-## Visual Studio Code
-
-Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
-
----
-
-## Git and GitHub
-
-At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
-
----
-
 ## Markdown
 
 Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, the major aspects of production are dependent on information technology. We don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools can be an asset in rural, scarcely populated environments.
@@ -65,6 +53,18 @@ To take advantage of some of the more interesting features of Markdown I concept
 * Transforming Markdown with PowerShell
 
 To the [Markdown page](markdown.md) of the NOSTERIIHI project.
+
+---
+
+## Git and GitHub
+
+At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
+
+---
+
+## Visual Studio Code
+
+Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
 ---
 
