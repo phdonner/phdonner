@@ -51,7 +51,7 @@ To take advantage of some of the more interesting features of Markdown I concept
 * Emoji fonts in Markdown and on WWW pages
 * Mermaid diagrams for Visual Studio Code and GitHub documentation
 
-To the [Markdown page](markdown.md) of the NOSTERIIHI project.
+You can have closer look at these topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
 ---
 
