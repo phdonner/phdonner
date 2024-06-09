@@ -28,6 +28,8 @@ flowchart LR
     id4(Powershell)
     id5(HTML)
     id1-->id2-->id3-->id4-->id5
+style id1 fill:#f9f;
+style id5 fill:#f9f;
 ```
 
 ---
