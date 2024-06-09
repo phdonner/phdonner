@@ -50,7 +50,6 @@ To take advantage of some of the more interesting features of Markdown I concept
 * Multilingual Markdown
 * Emoji fonts in Markdown and on WWW pages
 * Mermaid diagrams for Visual Studio Code and GitHub documentation
-* Rendering Markdown with PowerShell and transforming Mardown to HTML
 
 To the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
