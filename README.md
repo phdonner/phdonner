@@ -32,6 +32,7 @@ flowchart LR
     id1-->id4-->id5-->id6-->id3
 style id1 fill:#f9f;
 style id3 fill:#f9f;
+click id1 "markdown.md" "This is a link to the Markdown section"
 ```
 
 ---
