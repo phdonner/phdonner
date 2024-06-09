@@ -23,11 +23,12 @@ Planning is a conceptual activity. To be effective, we are trying to outline a w
 ```mermaid
 flowchart LR
     id1(Visual Studio Code)
-    id2(Git and GitHub)
+    id2(GitHub)
     id3(Markdown)
     id4(Powershell)
     id5(HTML)
-    id1-->id2-->id3-->id4-->id5
+    id6(WWW)
+    id3-->id2-->id6
 style id1 fill:#f9f;
 style id5 fill:#f9f;
 ```
