@@ -35,7 +35,7 @@ flowchart LR
     id7(HTML)
     id1-->id2-->id3;
     id1-->id4-->id2-->id3;
-    id1-->id5-->id6-->id7-->id3
+    id1-->id5-->id6-->id7-->id3;
 style id1 fill:#f9f;
 style id3 fill:#f9f;
 ```
