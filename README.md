@@ -38,7 +38,7 @@ style id1 fill:#f9f;
 style id3 fill:#f9f;
 ```
 
-If you are curious to know how the above diagram can be designed, check out my Markdown subtopic on Mermaid, a free diagram tool. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.
+If you are curious to know how the above diagram was designed, check out my Markdown subtopic on Mermaid, a free diagram tool. The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.
 
 ---
 
