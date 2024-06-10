@@ -23,7 +23,7 @@ Here are some of the topics to be covered:
 * [Comments in Markdown](#comments-in-markdown)
 * [Multilingual Markdown](#multilingual-markdown)
 * [Emoji fonts in Markdown and on WWW pages](#emoji-fonts-in-markdown-and-on-www-pages)
-* [Mermaid diagrams: A way of visualizing conceptual frameworks](#mermaid-diagrams-for-visual-studio-code-and-github-documentation)
+* [Mermaid diagrams: A way of visualizing conceptual frameworks](#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks)
 
 ---
 
