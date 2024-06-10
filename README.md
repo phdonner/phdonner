@@ -29,11 +29,13 @@ flowchart LR
     id1(Markdown)
     id2(GitHub)
     id3(WWW)
-    id4(Visual Studio Code)
-    id5(Powershell)
-    id6(HTML)
+    id4(Git)
+    id5(Visual Studio Code)
+    id6(Powershell)
+    id7(HTML)
     id1-->id2-->id3
-    id1-->id4-->id5-->id6-->id3
+    id1-->id4-->id2-->id3
+    id1-->id5-->id6-->id7-->id3
 style id1 fill:#f9f;
 style id3 fill:#f9f;
 ```
