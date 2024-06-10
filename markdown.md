@@ -23,7 +23,7 @@ Here are some of the topics to be covered:
 * [Comments in Markdown](#comments-in-markdown)
 * [Multilingual Markdown](#multilingual-markdown)
 * [Emoji fonts in Markdown and on WWW pages](#emoji-fonts-in-markdown-and-on-www-pages)
-* [Mermaid diagrams for Visual Studio Code and GitHub documentation](#mermaid-diagrams-for-visual-studio-code-and-github-documentation)
+* [Mermaid diagrams: A way of visualizing conceptual frameworks](#mermaid-diagrams-for-visual-studio-code-and-github-documentation)
 
 ---
 
@@ -49,7 +49,7 @@ As you can see: Here at GitHub the emoji characters can be embedded straight int
 
 ---
 
-## Mermaid diagrams to visualize conceptual documentation
+## Mermaid diagrams: A way of visualizing conceptual frameworks
 
 GitHub supports a convenient Markdown inspired way of creating the mindmaps needed during our planning. It is called *Mermaid*. You can design diagram in many flavors: flow charts, mindmaps, sequence diagrams, Git Graphs etc.. Again, many of the mermaid notations are rather easy to learn (cf. the [Mermaid cheat sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) at the Jekyll site). Study the markdown code behind the example diagram by copying it to text processor. You'll see that the basic symbols are quite easy to learn.
 
