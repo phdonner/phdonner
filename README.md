@@ -53,7 +53,7 @@ Although Markdown is easy to learn, it can become a powerful resource in informa
 
 Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
-To take advantage of some of the more interesting features of Markdown I conceptualized the following subtopics of this theme:
+To take advantage of some of the more interesting features of Markdown I listed the following subtopics of this theme:
 
 * Comments in Markdown
 * Multilingual Markdown
