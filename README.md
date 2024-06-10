@@ -16,7 +16,7 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 ---
 
-## How can Markdown documents be rendered and published in the World Wide Web?
+## How can Markdown documents be rendered and published on the World Wide Web?
 
 This is a personal undertaking which contributes to the NOSTERIIHI smart rural development project. I would, of course, also like to collaborate with other developers, who would be willing to contribute in transforming PowerShell automation into a way of empowering rural developers. It could be important to state an example of how bottom-up oriented, open-source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Welcome to the zero-margined collaborative community.
 
