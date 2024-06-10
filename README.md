@@ -67,7 +67,7 @@ At GitHub I’m currently trying to discover how Git, GitHub and related open-so
 
 ---
 
-## WWW pages on GitHub
+## WWW pages at GitHub
 
 There is a special section of GitHub, located at pages.github.com which is dedicated to WWW publication.
 
