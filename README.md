@@ -74,11 +74,11 @@ You can have closer look at these topics by navigating the [Markdown page](markd
 
 ## Git and GitHub
 
-At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
-
 *Git* is the command language for the safe creation and maintenance of documents. It provides a safe and elegant mechanism for _version control_ and hides a way all the stages of updating the documents in an invisible document of the file system. By documenting the various stages of the update history, the user can easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
 
-*GitHub* is a free resource where developers of open-source code can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user.
+*GitHub* is a free resource where developers of open-source code can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. 
+
+At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
 ---
 
