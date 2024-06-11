@@ -20,7 +20,7 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, the many aspects of production are dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
 
-Market driven production creates a lot of unnecessary expenses. These are often motivated by IT expenses. Think of quickly growing bank fees. Often the concrete production costs are obscured by abstract concepts like digitisation or artificial intelligence. At the same time some of the most potential advantages of information society construction - e.g. automation - remains unuvsed. The focus here is a reverse one. The project stresses the importance of simple but effective IT tools and collaboration as inroads to the zero margin society.
+Market driven production creates a lot of unnecessary expenses. These are often motivated by IT expenses. Think of quickly growing bank fees. Often the concrete production costs are obscured by abstract concepts like digitization or artificial intelligence. At the same time some of the most potential advantages of information society construction - e.g. automation - remains unused. The focus here is a reverse one. The project stresses the importance of simple but effective IT tools and bottom-up and peer oriented collaboration as inroads on the way towards the zero margin society.
 
 ---
 
@@ -98,9 +98,9 @@ Before the appearance of the open-source Linux operating system, Microsoft Windo
 
 ## Rendering Markdown with PowerShell and transforming Markdown into HTML
 
-PowerShell is a scripting language created by developers at Microsoft, but nowaday maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
+PowerShell is a scripting language created by developers at Microsoft, but nowadays maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shaked off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
-Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your terminal, you should be execute the following commands:
+Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your terminal, you should execute the following commands:
 
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
