@@ -16,6 +16,14 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 ---
 
+## The information society
+
+Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, the many aspects of production are dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
+
+Market driven production creates a lot of unnecessary expenses. These are often motivated by IT expenses. Think of quickly growing bank fees. Often the concrete production costs are obscured by abstract concepts like digitisation or artificial intelligence. At the same time some of the most potential advantages of information society construction - e.g. automation - remains unuvsed. The focus here is a reverse one. The project stresses the importance of simple but effective IT tools and collaboration as inroads to the zero margin society.
+
+---
+
 ## How can Markdown documents be rendered and published on the World Wide Web?
 
 This is a personal undertaking which contributes to the NOSTERIIHI smart rural development project. I would, of course, also like to collaborate with other developers, who would be willing to contribute in transforming PowerShell automation into a way of empowering rural developers. It could be important to state an example of how bottom-up oriented, open-source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Welcome to the zero-margined collaborative community.
@@ -48,8 +56,6 @@ The next subheadings are a list of some of the topics and immediate tasks that w
 ---
 
 ## Markdown
-
-Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, the major aspects of production are dependent on information technology. We don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools can be an asset in rural, scarcely populated environments.
 
 Although Markdown is easy to learn, it can become a powerful resource in information society construction. Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications.
 
