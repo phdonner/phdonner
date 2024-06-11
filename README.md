@@ -84,7 +84,7 @@ At GitHub I’m currently trying to discover how Git, GitHub and related open-so
 
 ## WWW pages at GitHub
 
-There is a special section of GitHub, located at pages.github.com which is dedicated to WWW publication. Navigate to the [GitHub pages](https://pages.github.com/) where you can find a tutorial which introduces the ways of constructing a site for your personal or your organization. Alternatively the pages can become a forum for your project.
+There is a special section of GitHub, located at pages.github.com which is dedicated to WWW publication. Navigate to the [GitHub pages](https://pages.github.com/) where you can find a tutorial which introduces the ways of constructing a site for your personal use or for your organization. Alternatively the pages can become a forum for your project.
 
 This is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
 
