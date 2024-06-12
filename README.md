@@ -74,6 +74,11 @@ To take advantage of some of the more interesting features of Markdown I listed 
 
 You can have closer look at these topics by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
+# Books
+
+_The Markdown Guide_
+by Matt Cone
+
 ---
 
 ## Git and GitHub
