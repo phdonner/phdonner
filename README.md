@@ -22,7 +22,7 @@ Our project is based on the assumption that we are experiencing the first phases
 
 Market driven production creates a lot of unnecessary expenses. These are often motivated by IT expenses. Think of quickly growing bank fees. Often the concrete production costs are obscured by abstract concepts like digitization or artificial intelligence. At the same time some of the most potential advantages of information society construction - first of all automation - remains unused. The focus here is a reverse one. The project stresses the importance of simple but effective IT tools and bottom-up and peer oriented collaboration as inroads on the way towards the zero margin society.
 
-# 📚
+## 📚
 
 _Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism_  
 by Jeremy Rifkin, 2015.
