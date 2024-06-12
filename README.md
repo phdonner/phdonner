@@ -34,9 +34,9 @@ Planning is a conceptual activity. To be efficient, we could outline of the vari
 
 ```mermaid
 flowchart LR
-    id1(Markdown)
+    id1([Markdown])
     id2(GitHub)
-    id3(WWW)
+    id3([WWW])
     id4(Git)
     id5(GitHub)
     id6(Visual Studio Code)
