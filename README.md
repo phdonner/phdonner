@@ -89,6 +89,11 @@ by Matt Cone
 
 At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
+# 📚
+
+_GIT GITHUB Programming in 8 Hours, For Beginners_  
+by Ray Yao
+
 ---
 
 ## WWW pages at GitHub
