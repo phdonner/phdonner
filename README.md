@@ -79,7 +79,7 @@ To take advantage of some of the more interesting features of Markdown I listed 
 
 You can have closer look at these topics by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
-# 📚
+## 📚
 
 _The Markdown Guide_  
 by Matt Cone, 2020.
@@ -132,7 +132,7 @@ Even more useful is the conversion command `ConvertFrom-Markdown` which translat
     # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
-# 📚
+## 📚
 
 _Windows PowerShell Cookbook 2e_  
 by Lee Holmes, 2010
