@@ -47,7 +47,7 @@ flowchart LR
     id1-->id6-->id7-->id8-->id3;
 style id1 fill:#f9f;
 style id3 fill:#f9f;
-click id1 markdown.md
+click id1 #markdown
 ```
 
 If you are curious to know how the above diagram was designed, check out my Markdown subtopic on [Mermaid](markdown.md#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks), which is a free diagram tool. 
