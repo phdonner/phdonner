@@ -68,5 +68,5 @@ mindmap
 This diagramming and charting functionality depends on a programming resource called JavaScript. In order to use such mindmaps outside GitHub, we would need to know how the Mermaid package is installed on the local machine and on our web server.
 
 # 📚
-The Official Guide to Mermaid.js: Create complex diagrams and beautiful flowcharts easily using text and code  
+_The Official Guide to Mermaid.js: Create complex diagrams and beautiful flowcharts easily using text and code_  
 by Knut Sveidqvist and Ashish Jain
