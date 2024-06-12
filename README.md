@@ -30,6 +30,8 @@ This is a personal undertaking which contributes to the NOSTERIIHI smart rural d
 
 Here I'll start quite modestly by producing a simple test case, where simple Markdown will become usable as Web pages. The NOSTERIIHI project will gradually evolve into a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages for use in the WWW . This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
+---
+
 ## The workflow
 
 Planning is a conceptual activity. To be efficient, we could outline of the various workflows which can be followed. The diagram will hopefully guide our work. 
