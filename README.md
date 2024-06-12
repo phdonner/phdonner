@@ -82,7 +82,7 @@ You can have closer look at these topics by navigating the [Markdown page](markd
 # 📚
 
 _The Markdown Guide_  
-by Matt Cone
+by Matt Cone, 2020.
 
 ---
 
@@ -97,7 +97,7 @@ At GitHub I’m currently trying to discover how Git, GitHub and related open-so
 # 📚
 
 _GIT GITHUB Programming in 8 Hours, For Beginners_  
-by Ray Yao
+by Ray Yao, 2021.
 
 ---
 
@@ -131,6 +131,11 @@ Even more useful is the conversion command `ConvertFrom-Markdown` which translat
 
     # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
+
+# 📚
+
+_Windows PowerShell Cookbook 2e_  
+by Lee Holmes, 2010
 
 ---
 
