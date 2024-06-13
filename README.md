@@ -115,6 +115,12 @@ This is an experimental site. So please, don't expect that the content would be 
 
 Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
+Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions and quite many of them build Markdown functionality. Here are a few examples:
+
+* Create a slide show or a presentation from Markdown code and the Marp extension
+* Make a Markdown compatible diagram with the Mermaid extension
+* Convert your Markdown document to PDF
+
 ### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
 [Note Taking with VS Code & Git](https://www.youtube.com/watch?v=Hgucu1ch3mo)
