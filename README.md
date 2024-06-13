@@ -115,7 +115,7 @@ Before the appearance of the open-source Linux operating system, Microsoft Windo
 
 ### 📹 Tutorial video on creating documents with Markup and Visual Studio Code
 
-https://www.youtube.com/watch?v=Hgucu1ch3mo
+[](https://www.youtube.com/watch?v=Hgucu1ch3mo)
 
 ---
 
