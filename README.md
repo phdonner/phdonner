@@ -58,6 +58,8 @@ style id1 fill:#f9f;
 style id3 fill:#f9f;
 ```
 
+<!-- Indicate various output alternatives: WWW, Slide show, PDF, Email etc -->
+
 If you are curious to know how the above diagram was designed, check out my Markdown subtopic on [Mermaid](markdown.md#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks), which is a free diagram design and rendering tool. 
 
 The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.
