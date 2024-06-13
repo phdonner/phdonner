@@ -33,7 +33,9 @@ One of the first observations I made while outlining the concept framework, was 
 
 It could be useful to to be able to jot down preliminary thoughts, interesting sources - and of course comments. They should be easily accessible to be remembered by the author, while not immediately visible to readers of the rendered document. There is an [interesting discussion on this topic](https://stackoverflow.com/questions/4823468/comments-in-markdown) at the Stack Overflow site which could be followed up by further debate and additional experiments.
 
-<!-- This is a HTML comment -->
+    <!-- This is a HTML comment. It seems to be a workaround. -->
+
+<!-- This is a HTML comment. It seems to be a workaround. -->
 
 ---
 
