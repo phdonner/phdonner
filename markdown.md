@@ -74,6 +74,6 @@ The matter is discussed on two GitHub threads:
 https://github.com/orgs/community/discussions/46096  
 https://github.com/orgs/community/discussions/106690  
 
-## 📚
+### 📚 References on Mermaid
 _The Official Guide to Mermaid.js: Create complex diagrams and beautiful flowcharts easily using text and code_  
 by Knut Sveidqvist and Ashish Jain
