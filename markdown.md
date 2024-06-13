@@ -69,7 +69,7 @@ This diagramming and charting functionality depends on a programming resource ca
 
 * Find a way of activating Mermaid nodes on GitHub
 
-The matter is discussed on two GitHub threads:
+The matter is being developed on two GitHub discussion threads:
 
 https://github.com/orgs/community/discussions/46096  
 https://github.com/orgs/community/discussions/106690  
