@@ -71,7 +71,7 @@ This diagramming and charting functionality depends on a programming resource ca
 
 The matter is discussed on two GitHub threads:
 
-https://github.com/orgs/community/discussions/46096
+https://github.com/orgs/community/discussions/46096  
 https://github.com/orgs/community/discussions/106690  
 
 ## 📚
