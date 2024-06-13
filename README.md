@@ -113,9 +113,9 @@ This is an experimental site. So please, don't expect that the content would be 
 
 Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
-### 📹 Tutorial videos on Visual Studio Code
+### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
-[Tutorial video on creating documents with Markup and Visual Studio Code](https://www.youtube.com/watch?v=Hgucu1ch3mo)
+[Note Taking with VS Code & Git](https://www.youtube.com/watch?v=Hgucu1ch3mo)
 
 ---
 
