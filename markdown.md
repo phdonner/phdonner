@@ -43,6 +43,10 @@ It could be useful to to be able to jot down preliminary thoughts, interesting s
 
 In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
 
+* Create a Finnish version of the NOSTERIIHI project site
+* Create an English version of the preparatory NOSTERIIHI project outline
+* Implement a subdomain name system suitable for Finnish villages
+
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
