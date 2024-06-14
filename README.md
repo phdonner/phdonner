@@ -75,14 +75,7 @@ Although Markdown is easy to learn, it can become a powerful resource in informa
 
 Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
-To take advantage of some of the more interesting features of Markdown I listed the following subtopics of this theme:
-
-* Comments in Markdown
-* Multilingual Markdown
-* Emoji fonts in Markdown and on WWW pages
-* Mermaid diagrams for Visual Studio Code and GitHub documentation
-
-You can have closer look at these topics by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
+You can have closer look at the details of this topic to rural development, by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
 ### 📚 References on Markdown
 
