@@ -87,9 +87,9 @@ by William Dyer, 2018.
 
 ### 🔗 Links to Markdown articles
 
-[John Gruber's Daring Fireball site](https://daringfireball.net/projects/markdown/)
+[John Gruber's introduction on his Daring Fireball site](https://daringfireball.net/projects/markdown/)
 
-[Markdown Guide](https://www.markdownguide.org/)
+[Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 [Markdown tutorial](https://www.markdowntutorial.com/)
 <!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
