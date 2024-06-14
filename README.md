@@ -95,7 +95,7 @@ by William Dyer, 2018.
 
 ### 🔗 Links to Markdown articles
 
-
+[John Gruber's Daring Fireball site](https://daringfireball.net/projects/markdown/)
 
 [Markdown Guide](https://www.markdownguide.org/)
 
