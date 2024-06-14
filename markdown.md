@@ -1,6 +1,6 @@
 # NOSTERIIHI Markdown
 
-The NOSTERIIHI project selected quick production of HTML pages as a test case of presenting collaborative information society procedures; how to design open-source tools, man made assets of the Information Society. While also being conceptual in essence, they provide a concrete starting point to understand what Information society construction is all about. This is in contrast with the abstract and mystified reality currently described as digitisation and artificial intelligence. 
+The NOSTERIIHI project selected quick production of HTML pages as a test case of presenting collaborative information society procedures; how to design open-source tools, man-made assets of the Information Society. While also being conceptual in essence, they provide a concrete starting point to understand what Information society construction is all about. This is in contrast with the abstract and mystified reality currently described as digitisation and artificial intelligence. 
 
 ---
 
