@@ -86,6 +86,9 @@ You can have closer look at these topics by navigating the [Markdown page](markd
 _The Markdown Guide_  
 by Matt Cone, 2020.
 
+_Using Markdown: A Short Instruction Guide_  
+by William Dyer, 2018.
+
 ---
 
 ## Git and GitHub
