@@ -123,7 +123,8 @@ Visual Studio is an extensible tool written by developers for the developer comm
 
 ### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
-[Note Taking with VS Code & Git](https://www.youtube.com/watch?v=Hgucu1ch3mo)
+[Note Taking with VS Code & Git](https://www.youtube.com/watch?v=Hgucu1ch3mo)  
+by Reynald Adolphe‬
 
 ---
 
