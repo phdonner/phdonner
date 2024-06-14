@@ -124,7 +124,7 @@ Visual Studio is an extensible tool written by developers for the developer comm
 ### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
 [Note Taking with VS Code & Git](https://www.youtube.com/watch?v=Hgucu1ch3mo)  
-by Reynald Adolphe‬
+by Reynald Adolphe‬.
 
 ---
 
@@ -148,7 +148,7 @@ Even more useful is the conversion command `ConvertFrom-Markdown` which translat
 ### 📚 References on PowerShell
 
 _Windows PowerShell Cookbook 2e_  
-by Lee Holmes, 2010
+by Lee Holmes, 2010.
 
 ---
 
