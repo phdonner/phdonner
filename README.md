@@ -89,6 +89,15 @@ by Matt Cone, 2020.
 _Using Markdown: A Short Instruction Guide_  
 by William Dyer, 2018.
 
+### 🔗 Links to Markdown articles
+
+
+
+[Markdown Guide](https://www.markdownguide.org/)
+
+[Markdown tutorial](https://www.markdowntutorial.com/)
+<!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
+
 ---
 
 ## Git and GitHub
