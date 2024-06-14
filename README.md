@@ -68,9 +68,13 @@ The next subheadings are a list of some of the topics and immediate tasks that w
 
 ## Markdown
 
-Although Markdown is easy to learn, it can become a powerful resource in information society construction. Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications.
+Although Markdown is easy to learn, it can become a powerful resource in information society construction. This is how the author of Markup, John Gruber describes the philosophy behind the language:
 
-Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
+> Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+> 
+> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. 
+
+Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn the 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
 To take advantage of some of the more interesting features of Markdown I listed the following subtopics of this theme:
 
