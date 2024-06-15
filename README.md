@@ -111,9 +111,11 @@ by Ray Yao, 2021.
 
 ### 🔗 Links to Git and GitHub articles
 
-[Git Tutorial](https://www.w3schools.com/git/)
+[Git Tutorial](https://www.w3schools.com/git/)  
+at w3schools.com
 
-[Git GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp)
+[Git GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp)  
+at w3schools.com
 
 ---
 
