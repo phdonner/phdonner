@@ -170,6 +170,11 @@ Even more useful is the conversion command `ConvertFrom-Markdown` which translat
 _Windows PowerShell Cookbook 2e_  
 by Lee Holmes, 2010.
 
+### 🔗 Links to PowerShell documentation
+
+[PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+at learn.microsoft.com.
+
 ---
 
 ## Contact information
