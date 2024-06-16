@@ -4,7 +4,7 @@
 
 Here I will present details on PowerShell Markdown functionality.
 
-<!-- Include sections on:                                                   -->
+<!-- Include sections on:                                           -->
 <!-- Basic PowerShell Markdown commands                             -->
 <!-- Render Markdown to PDF                                         -->
 <!-- Extend Markdown with table functionality                       -->
