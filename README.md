@@ -144,7 +144,8 @@ Visual Studio is an extensible tool written by developers for the developer comm
 * Make a Markdown compatible diagram with the Mermaid extension
 * Convert your Markdown document to PDF
 
-NB If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code by replacing the `.com` root of your GitHub web address of your repository to `.dev`. Like this: Change github`.com`/`<your GitHub name>` to github`.dev`/`<your GitHub name>`. This loads the contents or your page into a browser version of Visual Studio Code.
+> [!NOTE]
+> If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code by replacing the `.com` root of your GitHub web address of your repository to `.dev`. Like this: Change github`.com`/`<your GitHub name>` to github`.dev`/`<your GitHub name>`. This loads the contents or your page into a browser version of Visual Studio Code.
 
 ### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
