@@ -37,6 +37,8 @@ It could be useful to to be able to jot down preliminary thoughts, interesting s
 
 <!-- This is a HTML comment. It seems to be a functional workaround. -->
 
+<!-- Have a look at Rich Tabor's Comment plugin for WordPress         -->
+
 ---
 
 ## Multilingual Markdown
