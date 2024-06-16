@@ -1,6 +1,6 @@
 # NOSTERIIHI PowerShell
 
-<-- This is a placeholder for PowerShell content on this site -->
+<!-- This is a placeholder for PowerShell content on this site -->
 
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
