@@ -155,8 +155,7 @@ PowerShell is a scripting language created by developers at Microsoft, but nowad
 <!-- This code should be moved to a separate document on PowerShell -->
 <!-- Sections on:                                                   -->
 <!-- Render Markdown to PDF                                         -->
-<!-- Render Markdown to slides                                      -->
-<!-- Table functionality                                            -->
+<!-- Extend Markdown with table functionality                       -->
 <!-- Assemble HTML fragments to a full document                     -->
 <!-- Define style with CSS and PowerShell VT100 tunings             -->
 
