@@ -77,14 +77,6 @@ Apart from providing ways of organizing the content of individual documents, it 
 
 You can have closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
-### 📚 References on Markdown
-
-_The Markdown Guide_  
-by Matt Cone, 2020.
-
-_Using Markdown: A Short Instruction Guide_  
-by William Dyer, 2018.
-
 ### 🔗 Links to Markdown articles
 
 [John Gruber's Markdown introduction on his Daring Fireball site](https://daringfireball.net/projects/markdown/)
@@ -93,6 +85,14 @@ by William Dyer, 2018.
 
 [Markdown tutorial](https://www.markdowntutorial.com/)
 <!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
+
+### 📚 References on Markdown
+
+_The Markdown Guide_  
+by Matt Cone, 2020.
+
+_Using Markdown: A Short Instruction Guide_  
+by William Dyer, 2018.
 
 ---
 
@@ -104,18 +104,21 @@ by William Dyer, 2018.
 
 At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
-### 📚 Refefences on Git and GitHub
-
-_GIT GITHUB Programming in 8 Hours, For Beginners_  
-by Ray Yao, 2021.
-
 ### 🔗 Links to Git and GitHub articles
+
+[Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+by Ihechikara Vincent Abba
 
 [Git Tutorial](https://www.w3schools.com/git/)  
 at w3schools.com
 
 [Git GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp)  
 at w3schools.com
+
+### 📚 Refefences on Git and GitHub
+
+_GIT GITHUB Programming in 8 Hours, For Beginners_  
+by Ray Yao, 2021.
 
 ---
 
@@ -172,17 +175,17 @@ Even more useful is the conversion command `ConvertFrom-Markdown` which translat
     # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
-### 📚 References on PowerShell
-
-_Windows PowerShell Cookbook 2e_  
-by Lee Holmes, 2010.
-
 ### 🔗 Links to PowerShell documentation
 
 [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 at learn.microsoft.com.
 
 <!-- Add a list of the best tutorials -->
+
+### 📚 References on PowerShell
+
+_Windows PowerShell Cookbook 2e_  
+by Lee Holmes, 2010.
 
 ---
 
