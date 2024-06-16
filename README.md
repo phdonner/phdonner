@@ -152,7 +152,7 @@ by Reynald Adolphe‬.
 
 PowerShell is a scripting language created by developers at Microsoft, but nowadays maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shook off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with cross-platform needs.
 
-Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your terminal, you should execute the following commands:
+Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your terminal, you should be able to execute the following commands:
 
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
