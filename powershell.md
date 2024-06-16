@@ -4,12 +4,13 @@
 
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
-* Basic PowerShell Markdown commands
 * Fine-tune how markdown is rendered on a VT100 console
 * Convert Markdown to PDF
 * Extend Markdown with PowerShell table functionality
 * Assemble code fragments to a full HTML document
 * Define Web page style with CSS and PowerShell 
+
+---
 
 ## Display Markdown in your default browser
 
@@ -17,6 +18,8 @@ Starting with version 7.2, PowerShell includes useful functionality which facili
 
     # Render Markdown content to be displayed with the default browser:
     Show-Markdown -Path .\page.md -UseBrowser
+
+---
 
 ## Conversion from Markdown to HTML
 
@@ -27,8 +30,20 @@ Here you are:
     # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
+---
+
 ## Conversion from Markdown to a VT100 encoded string
+
+This variation is useful in a configuration equipped with a VT100 console. This is the case if development work is e.g. carried out on the Visual Studio Code IDE.
 
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
    
+The conversion can be fine-tuned with a related command:
+
+
+
+
+
+   
+The PowerShell documentation states the obvious fact, that "If the terminal doesn't support ANSI color escape sequences (VT100), then colors are not displayed."
