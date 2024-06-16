@@ -115,7 +115,7 @@ at w3schools.com
 [Git GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp)  
 at w3schools.com
 
-### 📚 Refefences on Git and GitHub
+### 📚 References on Git and GitHub
 
 _GIT GITHUB Programming in 8 Hours, For Beginners_  
 by Ray Yao, 2021.
