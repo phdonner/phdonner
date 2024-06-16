@@ -11,7 +11,7 @@ Here I will present details on PowerShell Markdown functionality, including sect
 * Assemble code fragments to a full HTML document
 * Define Web page style with CSS and PowerShell 
 
-## Coversion from Markdown to HTML
+## Conversion from Markdown to HTML
 
 Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your terminal, you should be able to execute the following commands:
 
