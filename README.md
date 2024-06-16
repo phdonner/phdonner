@@ -167,7 +167,7 @@ Starting with version 7.2, PowerShell includes useful functionality which facili
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
    
-    # Render Markdown content to be displayed the current browser:
+    # Render Markdown content to be displayed with the current browser:
     Show-Markdown -Path .\page.md -UseBrowser
 
 Even more useful is the conversion command `ConvertFrom-Markdown` which translates a Markdown page into HTML usable at your WWW site. Here you are:
