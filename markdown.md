@@ -2,6 +2,11 @@
 
 The NOSTERIIHI project selected quick production of HTML pages as a test case of presenting collaborative information society procedures; how to design open-source tools, man-made assets of the Information Society. While also being conceptual in essence, they provide a concrete starting point to understand what Information society construction is all about. This is in contrast with the abstract and mystified reality currently described as digitisation and artificial intelligence. 
 
+<!-- There should be a subtopic on use of Markdown in the WordPress environment  -->
+<!-- There is a multitude of WordPress plugins which supports the use of         -->
+<!-- Markdown in the WordPress: 57 (15.05.2024)                                  -->
+<!-- They should be evaluated                                                    -->
+
 ---
 
 ## Text to HTML
