@@ -138,7 +138,7 @@ https://github.com/phdonner/ is an experimental site. So please, don't expect th
 
 Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
-Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions and quite many of them build Markdown functionality. Here are a few examples:
+Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions and quite many of them build Markdown functionality. Here are a few examples of the kind advantages that you can achieve:
 
 * Create a slide show or a presentation from Markdown code and the Marp extension
 * Make a Markdown compatible diagram with the Mermaid extension
