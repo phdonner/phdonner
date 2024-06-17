@@ -39,9 +39,13 @@ This variation is useful in a configuration equipped with a VT100 console. This 
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
    
-The conversion can be fine-tuned with a related PowerShell command:
+The conversion can be fine-tuned with a related PowerShell command Set-MarkdownOption which sets the color and style used for rendering Markdown text:
 
     Set-MarkdownOption
+
+The command also supports two themes, that is two predefined color sets `Dark` and `Light`. Like this:
+
+    Set-MarkdownOption -Theme Dark
   
 The PowerShell documentation states the obvious fact, that "If the terminal doesn't support ANSI color escape sequences (VT100), then colors are not displayed."
 
