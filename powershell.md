@@ -4,11 +4,11 @@
 
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
-* Fine-tune how markdown is rendered on a VT100 console
-* Convert Markdown to PDF
-* Extend Markdown with PowerShell table functionality
 * Assemble code fragments to a full HTML document
 * Define Web page style with CSS and PowerShell 
+* Extend Markdown with PowerShell table functionality
+* Convert Markdown to PDF
+* Fine-tune how markdown is rendered on a VT100 console
 
 ---
 
