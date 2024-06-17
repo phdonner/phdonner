@@ -43,7 +43,7 @@ The conversion can be fine-tuned with a related PowerShell command Set-MarkdownO
 
     Set-MarkdownOption
 
-The command also supports two themes, that is two predefined color sets `Dark` and `Light`. Like this:
+The command also supports two themes, that is two predefined color sets called  `Dark` and `Light`. Like this:
 
     Set-MarkdownOption -Theme Dark
   
