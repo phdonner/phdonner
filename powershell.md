@@ -41,9 +41,7 @@ This variation is useful in a configuration equipped with a VT100 console. This 
    
 The conversion can be fine-tuned with a related command:
 
-
-
-
-
-   
+  
 The PowerShell documentation states the obvious fact, that "If the terminal doesn't support ANSI color escape sequences (VT100), then colors are not displayed."
+
+<!-- Check out https://github.com/read-0nly/PSRepo/tree/master/colorDemo -->
