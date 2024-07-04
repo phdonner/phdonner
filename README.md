@@ -18,9 +18,9 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 ## The information society
 
-Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, the many aspects of production are dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
+Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, many or perhaps most aspects of production are dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
 
-Market driven production creates a lot of unnecessary expenses. These are often motivated by IT expenses. Think of quickly growing bank fees. Often the concrete production costs are obscured by abstract concepts like digitization or artificial intelligence. At the same time some of the most potential advantages of information society construction - first of all automation - remains unused. The focus here is a reverse one. The project stresses the importance of simple but effective IT tools and bottom-up and peer oriented collaboration as inroads on the way towards the zero margin society.
+Market driven production creates a lot of unnecessary expenses. These are often motivated by IT expenses. Think of the quickly growing bank fees. Often concrete production costs are obscured by abstract concepts like digitization or artificial intelligence. At the same time some of the most potential advantages of information society construction - first of all automation - remain unused. Here the focus is reversed. The project stresses the importance of simple, but effective IT tools and bottom-up and peer oriented collaboration as inroads on the way towards the zero margin society.
 
 ### 📚 References on the information society
 
@@ -60,7 +60,7 @@ style id3 fill:#f9f;
 
 <!-- Indicate various output alternatives: WWW, Slide show, PDF, Email etc -->
 
-If you are curious to know how the above diagram was designed, check out my Markdown subtopic on [Mermaid](markdown.md#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks), which is a free diagram design and rendering tool. 
+If you are curious to know how the above diagram was designed, check out the Markdown subtopic on [Mermaid](markdown.md#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks), which is a free diagram design and rendering tool. 
 
 The next subheadings are a list of some of the topics and immediate tasks that we are facing right now.
 
@@ -68,12 +68,12 @@ The next subheadings are a list of some of the topics and immediate tasks that w
 
 ## Markdown
 
-Although Markdown is easy to learn, it can become a powerful resource in information society construction. This is how the author of Markup, John Gruber describes the philosophy behind the language:
+Although Markdown is easy to learn, it can still become a rather powerful resource in information society construction. This is how the author of Markup, John Gruber describes the philosophy behind the language:
 
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.  
 > Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. 
 
-Apart from providing ways of organizing the content of individual documents, it is very handy in preparing web pages, writing email, making task lists and so forth. [Learn 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover quite a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
+Apart from providing ways of organizing the content of individual documents, it is handy in preparing web pages, writing email, making task lists and so forth. [Learn 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
 Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
@@ -98,9 +98,9 @@ by William Dyer, 2018.
 
 ## Git and GitHub
 
-*Git* is the command language for the safe creation and maintenance of documents. It provides a safe and elegant mechanism for _version control_ and hides a way all the stages of updating the documents in an invisible document of the file system. By documenting the various stages of the update history, the user can easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
+*Git* is the command language for the safe creation and maintenance of documents. It provides a safe and elegant mechanism for _version control_ and hides the many stages of updating the documents in an invisible document of the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
 
-*GitHub* is a free resource where developers of open-source code can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. 
+*GitHub* is a free resource where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. 
 
 At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
@@ -136,11 +136,11 @@ https://github.com/phdonner/ is an experimental site. So please, don't expect th
 
 ## Visual Studio Code
 
-Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio IDE and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
+Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio Integrated Development Environment (IDE) and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
-Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions and quite many of them build Markdown functionality. Here are a few examples of the kind advantages that you can achieve:
+Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions. It is interesting to note, that many of them promote Markdown functionality. Here are a few examples of the kind advantages that you can achieve:
 
-* Create a slide show or a presentation from Markdown code and the Marp extension
+* Create a slide show or a presentation from Markdown code and the Marp extension <!-- Add pointers to each of these extensions -->
 * Make a Markdown compatible diagram with the Mermaid extension
 * Convert your Markdown document to PDF
 
