@@ -4,8 +4,8 @@
 
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
-* Assemble code fragments to a full HTML document
-* Define Web page style with CSS and PowerShell 
+* Demonstrate how code and text fragments can be assembled to a full HTML document
+* Find out how to define Web page style with Cascaded Style Sheets (CSS) and PowerShell 
 * Extend Markdown with PowerShell table functionality
 * Convert Markdown to PDF
 * Fine-tune how markdown is rendered on a VT100 console
@@ -14,7 +14,19 @@ Here I will present details on PowerShell Markdown functionality, including sect
 
 ## Display Markdown in your default browser
 
-Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your local terminal, you should be able to view your Markdown file in a WWW browser. Execute a single command, `Show-Markdown` with the `-UseBrowser` argument:
+Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your local terminal, you should be able to view your Markdown file in a WWW browser. 
+
+> # Sample Markdown page page.md
+>
+> ## The example above of an unordered list
+>
+> * Demonstrate how code and text fragments can be assembled to a full HTML document
+> * Find out how to define Web page style with Cascaded Style Sheets (CSS) and PowerShell 
+> * Extend Markdown with PowerShell table functionality
+> * Convert Markdown to PDF
+> * Fine-tune how markdown is rendered on a VT100 console
+
+Use the copy functionality of the code window above and store the content in a file called page.md in your PowerShell terminal. Then execute a single command, `Show-Markdown` with the `-UseBrowser` argument:
 
     # Render Markdown content to be displayed with the default browser:
     Show-Markdown -Path .\page.md -UseBrowser
