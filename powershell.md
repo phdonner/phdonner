@@ -18,13 +18,13 @@ Starting with version 7.2, PowerShell includes useful functionality which facili
 
    # Sample Markdown page page.md
 
-   ## The example above of an unordered list
-   
-   * Demonstrate how code and text fragments can be assembled to a full HTML document
-   * Find out how to define Web page style with Cascaded Style Sheets (CSS) and PowerShell 
-   * Extend Markdown with PowerShell table functionality
-   * Convert Markdown to PDF
-   * Fine-tune how markdown is rendered on a VT100 console
+    ## The example above of an unordered list
+    
+    * Demonstrate how code and text fragments can be assembled to a full HTML document
+    * Find out how to define Web page style with Cascaded Style Sheets (CSS) and PowerShell 
+    * Extend Markdown with PowerShell table functionality
+    * Convert Markdown to PDF
+    * Fine-tune how markdown is rendered on a VT100 console
 
 Use the copy functionality of the code window above and store the content in a file called page.md in your PowerShell terminal. Then execute a single command, `Show-Markdown` with the `-UseBrowser` argument:
 
