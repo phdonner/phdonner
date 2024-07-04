@@ -39,7 +39,7 @@ This variation is useful in a configuration equipped with a VT100 console. This 
     # Render Markdown content in Visual Studio Code (or any VT100 compatible console):
     Show-Markdown -Path .\page.md
    
-The conversion can be fine-tuned with a related PowerShell command Set-MarkdownOption which sets the color and style used for rendering Markdown text:
+The conversion can be fine-tuned with a related PowerShell command `Set-MarkdownOption` which sets the color and style used for rendering Markdown text:
 
     Set-MarkdownOption
 
