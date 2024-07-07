@@ -83,7 +83,8 @@ Please, have a closer look at the details of this topic by navigating the [Markd
 
 [John Gruber's Markdown introduction on his Daring Fireball site](https://daringfireball.net/projects/markdown/)
 
-[Markdown Guide](https://www.markdownguide.org/getting-started/)
+[Markdown Guide](https://www.markdownguide.org/getting-started/)  
+by Matt Cone
 
 [Markdown tutorial](https://www.markdowntutorial.com/)
 <!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
