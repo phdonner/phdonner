@@ -34,7 +34,7 @@ Use the copy functionality of the code window above (upper right hand corner) an
 
 ---
 
-## Conversion from Markdown to HTML
+## Conversion from Markdown to HTML fragment
 
 Most useful is the PowerShell conversion command `ConvertFrom-Markdown` which translates a Markdown page into HTML usable at your WWW site. 
 
