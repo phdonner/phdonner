@@ -2,6 +2,9 @@
 
 <!-- This is a placeholder for PowerShell content on this site -->
 
+<!-- Consider consluting the MS PowerShell style guide:                                                                                        -->
+<!-- https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/powershell-style-guide?view=powershell-7.4  etc. -->
+
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
 * Demonstrate how code and text fragments can be assembled to a full HTML document
