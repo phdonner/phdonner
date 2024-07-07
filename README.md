@@ -75,6 +75,8 @@ Although Markdown is easy to learn, it can still become a rather powerful resour
 
 Apart from providing ways of organizing the content of individual documents, it is handy in preparing web pages, writing email, making task lists and so forth. [Learn 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
 
+However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown provides a quick way of structuring documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. The two approaches can, in fact, support one another.
+
 Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
 ### 🔗 Links to Markdown articles
