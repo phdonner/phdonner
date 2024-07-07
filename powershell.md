@@ -27,7 +27,7 @@ Starting with version 7.2, PowerShell includes useful functionality which facili
     * Convert Markdown to PDF
     * Fine-tune how markdown is rendered on a VT100 console
 
-Use the copy functionality of the code window above and store the content in a file called page.md in your PowerShell terminal. Then execute a single command, `Show-Markdown` with the `-UseBrowser` argument:
+Use the copy functionality of the code window above (upper right hand corner) and store the content in a file called page.md in your PowerShell terminal. Then execute a single command, `Show-Markdown` with the `-UseBrowser` argument:
 
     # Render Markdown content to be displayed with the default browser:
     Show-Markdown -Path .\page.md -UseBrowser
