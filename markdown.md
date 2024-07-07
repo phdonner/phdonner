@@ -38,9 +38,12 @@ It could be useful to to be able to jot down preliminary thoughts, interesting s
 
     <!-- This is a HTML comment. It seems to be a functional workaround to make comments in Markdown. -->
 
-<!-- This is a HTML comment. It seems to be a functional workaroundto make comments in Markdown. -->
+<!-- This is a HTML comment. It seems to be a functional workaroundto make comments in Markdown.      -->
 
-<!-- Have a look at Rich Tabor's Comment plugin for WordPress         -->
+<!-- Have a look at Rich Tabor's Comment plugin for WordPress                                         -->
+
+<!-- Also consider [comment]: # notation, see                                                         -->
+<!-- https://github.com/mattcone/markdown-guide/blob/master/hacks.md#comments                         -->
 
 ---
 
