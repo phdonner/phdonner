@@ -15,8 +15,6 @@ In 2004 the author developed a server side Visual Basic Script utility to facili
 
 The TextToHtml utility was a necessity for speedy HTML page production in documenting ongoing work. I wasn't aware of the fact that John Gruber created in the same year a fully featured and carefully designed language called Markdown with related tools and documentation. The name of the language was perhaps selected to contrast it with the Hypertext _Markup_ Language, HTML wich was much more detailed and the syntax was evidently more detailed. 
 
-However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown provides a quick way of structuring documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. As you will soon find out, the two approaches can support one another.
-
 ---
 
 ## Aims of the Markup section of the NOSTERIIHI project
