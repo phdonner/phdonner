@@ -43,6 +43,17 @@ Here you are:
     # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
+The page actually contains a HTML fragment:
+
+    <h1 id="sample-markdown-page-to-be-stored-in-page.md">Sample Markdown page to be stored in page.md</h1>
+    <ul>
+    <li>Demonstrate how code and text fragments can be assembled to a full HTML document</li>
+    <li>Find out how to define Web page style with Cascaded Style Sheets (CSS) and PowerShell</li>
+    <li>Extend Markdown with PowerShell table functionality</li>
+    <li>Convert Markdown to PDF</li>
+    <li>Fine-tune how markdown is rendered on a VT100 console</li>
+    </ul>
+
 ---
 
 ## Conversion from Markdown to a VT100 encoded string
