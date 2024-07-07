@@ -19,7 +19,7 @@ Here I will present details on PowerShell Markdown functionality, including sect
 
 Starting with version 7.2, PowerShell includes useful functionality which facilitates integration between Mardown, PowerShell and VisualStudio Code. If you have a sample document called page.md in the current location of your local terminal, you should be able to view your Markdown file in a WWW browser. 
 
-   # Sample Markdown page page.md
+### Sample Markdown page page.md
 
     ## The example above of an unordered list
     
