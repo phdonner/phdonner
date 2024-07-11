@@ -58,7 +58,9 @@ style id1 fill:#f9f;
 style id3 fill:#f9f;
 ```
 
-<!-- Indicate various output alternatives: WWW, Slide show, PDF, Email etc -->
+<!-- Also indicate various other output alternatives: WWW, Slide show, PDF, Email etc -->
+
+<!-- Find out how the Mermaid nodes could be activated to become hyperlinks           -->
 
 If you are curious to know how the above diagram was designed, check out the Markdown subtopic on [Mermaid](markdown.md#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks), which is a free diagram design and rendering tool. 
 
