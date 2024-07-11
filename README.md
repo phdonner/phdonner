@@ -18,7 +18,7 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 ## The information society
 
-Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the information society, many or perhaps most aspects of production are dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
+Our project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the _information society_, many or perhaps most aspects of production are dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
 
 Market driven production creates unnecessary expenses, These are often motivated by IT expenses and the desire of producing a surplus for the investors. Think of the quickly growing bank fees. Often concrete production costs are obscured by abstract concepts like digitization or artificial intelligence. At the same time some of the most potential advantages of information society construction - first of all automation - remain unused. Here the focus is reversed. The project stresses the importance of simple, but effective IT tools and bottom-up and peer oriented collaboration as inroads on the way towards the zero margin society.
 
