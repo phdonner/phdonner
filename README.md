@@ -147,9 +147,9 @@ Before the appearance of the open-source Linux operating system, Microsoft Windo
 
 Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions. It is interesting to note, that many of them promote Markdown functionality. Here are a few examples of the kind advantages that you can achieve:
 
-* Create a slide show or a presentation from Markdown code and the Marp extension <!-- Add pointers to each of these extensions -->
-* Make a Markdown compatible diagram with the Mermaid extension
-* Convert your Markdown document to PDF
+- [ ] Create a slide show or a presentation from Markdown code and the Marp extension <!-- Add pointers to each of these extensions -->
+- [x] Make a Markdown compatible diagram with the Mermaid extension
+- [ ] Convert your Markdown document to PDF
 
 > [!TIP]
 > If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code by replacing the `.com` root of your GitHub repository web address with `.dev`. Like this: Change github.com/`<your GitHub name>` to github.dev/`<your GitHub name>`. This loads the contents or your page into a browser version of Visual Studio Code.
