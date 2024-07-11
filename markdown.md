@@ -23,10 +23,10 @@ While providing the fundamentals of the procedures of writing Markup documents, 
 
 Here are some of the topics to be covered:
 
-* [Comments in Markdown](#comments-in-markdown)
-* [Multilingual Markdown](#multilingual-markdown)
-* [Emoji fonts in Markdown and on WWW pages](#emoji-fonts-in-markdown-and-on-www-pages)
-* [Mermaid diagrams: A way of visualizing conceptual frameworks](#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks)
+- [x] [Comments in Markdown](#comments-in-markdown)
+- [ ] [Multilingual Markdown](#multilingual-markdown)
+- [x] [Emoji fonts in Markdown and on WWW pages](#emoji-fonts-in-markdown-and-on-www-pages)
+- [x] [Mermaid diagrams: A way of visualizing conceptual frameworks](#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks)
 
 ---
 
