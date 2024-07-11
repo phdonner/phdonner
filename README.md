@@ -37,6 +37,16 @@ It could be practical to start quite modestly by producing a straightforward cas
  
 This small NOSTERIIHI sub-project will gradually evolve into a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages for use in the WWW. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
+<!-- Follow up with a breakdown of the basic concepts:   -->
+<!-- HTML the marking language to make WWW pages         -->
+<!-- TCP/IP HTTPMediator                                 -->
+<!-- Markdown: A simple marking language                 -->
+<!-- Automation tools: Git                               -->
+<!-- The GitHub developer resource                       -->
+<!-- Automation tools: PowerShell                        -->
+<!-- VisualStudio Code                                   -->
+<!-- My COM tool                                         -->
+
 ---
 
 ## The workflow
