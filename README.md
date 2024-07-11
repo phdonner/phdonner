@@ -33,7 +33,9 @@ by Jeremy Rifkin, 2015.
 
 This is a personal undertaking which contributes to the NOSTERIIHI smart rural development project. I would, also like to collaborate with other developers, who are willing to contribute in transforming PowerShell automation into a way of empowering rural developers. It could be important to state an example of how bottom-up oriented, open-source voluntary collaboration can be a smart concept which wins over passivating, profit-based top-down work. Welcome to the zero-margined collaborative community.
 
-Here I'll start quite modestly by producing a straightforward test case, where simple Markdown will become usable as Web pages. The NOSTERIIHI project will gradually evolve into a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages for use in the WWW . This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
+It could be practical to start quite modestly by producing a straightforward case, which would prove that there is nothing very mystical about automation and that the information society provides us with productive tools, without resorting to artificial income logic. The production of web pages has been a rather complicated and error prone process. Markdown is a notation procedure which was invented in the early years of the millenium. However, it is only during the last few years that the technique has become widely popular among developers. One of the reasons, is that GitHub and some other developer resources adopted Markdown as a resource for quick production of Web pages. That is how a couple of resources were aligned to support the process of transforming Markdown to HTML.
+ 
+This small NOSTERIIHI sub-project will gradually evolve into a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages for use in the WWW. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
 ---
 
