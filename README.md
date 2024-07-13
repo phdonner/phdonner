@@ -115,9 +115,9 @@ by William Dyer, 2018.
 
 ## Git and GitHub
 
-*Git* is the command language for the safe creation and maintenance of documents. It provides a safe and elegant mechanism for _version control_ and hides the many stages of updating the documents in an invisible document of the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
+*Git* is a command language for the safe creation and maintenance of documents. It provides an elegant mechanism for _version control_ and handles the many stages of updating documents in an invisible document hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
 
-*GitHub* is a free resource where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. 
+*GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. 
 
 At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
@@ -141,7 +141,7 @@ by Ray Yao, 2021.
 
 ## Markdown WWW pages at GitHub
 
-There is a special section of GitHub, located at pages.github.com which is dedicated to WWW publication. Navigate to the [GitHub pages](https://pages.github.com/) where you can find a tutorial which introduces the ways of constructing a site for your personal use or for your organization. Alternatively the pages can become a forum for your project.
+There is a special section of GitHub, located at pages.github.com which is dedicated to WWW publication. Navigate to the [GitHub pages](https://pages.github.com/), where you can find a tutorial which introduces ways of constructing a site for your personal use or for your organization. Alternatively the pages can become a forum for discussion of your project.
 
 https://github.com/phdonner/ is an experimental site. So please, don't expect that the content would be static somehow. On the contrary: If the structure and the content develops dynamically, then that could be taken as a sign of active and perhaps even productive work.
 
@@ -153,7 +153,9 @@ https://github.com/phdonner/ is an experimental site. So please, don't expect th
 
 ## Visual Studio Code
 
-Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing platform for software developers. With a low license fee the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going development of automated systems. Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio Integrated Development Environment (IDE) and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
+Before the appearance of the open-source Linux operating system, Microsoft Windows was by far the most appealing OS platform for software developers. With a low license fee, the entrance threshold was low. With the so called COM-based technologies MS made a leap into easy-going, script or machine language based development of automated systems. 
+
+Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio Integrated Development Environment (IDE) and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
 Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions. It is interesting to note, that many of them promote Markdown functionality. Here are a few examples of the kind advantages that you can achieve:
 
@@ -162,7 +164,7 @@ Visual Studio is an extensible tool written by developers for the developer comm
 - [ ] Convert your Markdown document to PDF
 
 > [!TIP]
-> If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code by replacing the `.com` root of your GitHub repository web address with `.dev`. Like this: Change github.com/`<your GitHub name>` to github.dev/`<your GitHub name>`. This loads the contents or your page into a browser version of Visual Studio Code.
+> If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code without delving into the intricacies of the tool. Replace the `.com` extension of your GitHub repository web address with `.dev`. Like this: Change github.com/`<your GitHub name>` to github.dev/`<your GitHub name>`. This loads the contents of your page into a browser version of Visual Studio Code.
 
 ### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
@@ -173,7 +175,7 @@ by Reynald Adolphe‬.
 
 ## Render and transform Markdown into HTML with PowerShell 
 
-PowerShell is a scripting language created by developers at Microsoft, but nowadays maintained by an open-source community. A quite remarkable change of focus came about when this undertaking shook off its roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time our installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with automation needs (perhaps even on a cross-platform basis).
+PowerShell is a scripting language created by developers at Microsoft, but nowadays maintained by an open-source community with MS support. A quite remarkable change of focus came about when this undertaking shook off its narrow roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time the Raspberry Pi installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with automation needs (perhaps even on a cross-platform basis).
 
 Check out the details by delving into the [PowerShell section](powershell.md) of this introduction.
 
