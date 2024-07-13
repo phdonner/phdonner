@@ -87,9 +87,9 @@ Although Markdown is easy to learn, it can still become a rather powerful resour
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.  
 > Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. 
 
-Apart from providing ways of organizing the content of individual documents, it is handy in preparing web pages, writing email, making task lists and so forth. [Learn 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you will quickly discover a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the source looks like.
+Apart from providing ways of organizing the content in individual documents, it is handy in preparing web pages, writing email, making task lists and so forth. [Learn 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you might quickly discover a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the Markdown source document looks like.
 
-However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown provides a quick way of structuring documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. The two approaches can, in fact, support one another.
+However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown gives us a quick way of organizing the structure of documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. You will see that the two approaches can, in fact, support one another.
 
 Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
@@ -115,11 +115,9 @@ by William Dyer, 2018.
 
 ## Git and GitHub
 
-*Git* is a command language for the safe creation and maintenance of documents. It provides an elegant mechanism for _version control_ and handles the many stages of updating documents in an invisible document hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
+*Git* is a command language for the safe creation and maintenance of documents. It provides elegant mechanisms for _version control_. It handles the many updates of the document in an invisible document hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
 
-*GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, developers get access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. 
-
-At GitHub I’m currently trying to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
+*GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, the subscriber gets access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. Let's try to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
 ### 🔗 Links to Git and GitHub articles
 
