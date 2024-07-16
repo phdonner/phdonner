@@ -43,7 +43,7 @@ Here you are:
     # Translate Markdown to HTML which is directly usable as a WWW page in a HTTP service
     ConvertFrom-Markdown -Path ./page.md | Select-Object -ExpandProperty Html | Set-Content -Path ./page.htm
 
-The file actually contains only a HTML fragment, without even the `<html> and `<body> containers (not to speak of even a document type declaration:
+The file actually contains only a HTML fragment, without even the `<html>` and `<body>` containers (not to speak of even a document type declaration, `<head>`, `<title>` etc.):
 
     <h1 id="sample-markdown-page-to-be-stored-in-page.md">Sample Markdown page to be stored in page.md</h1>
     <ul>
