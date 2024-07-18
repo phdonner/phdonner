@@ -163,7 +163,9 @@ Before the appearance of the open-source Linux operating system, Microsoft Windo
 
 Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio Integrated Development Environment (IDE) and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
-Visual Studio is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions. It is interesting to note, that many of them promote Markdown functionality. Here are a few examples of the kind advantages that you can achieve:
+Visual Studio (VS) is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions, including many extensions which improve VS Markdown functionality. For instance, [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) is a Markdown linting and style checking tool which includes a library of rules to encourage standards and consistency for Markdown files. This improves the readability of the authors Markdown files.
+
+Here are a few examples of the kind advantages that you can achieve with VS extensions:
 
 - [ ] Create a slide show or a presentation from Markdown code and the Marp extension <!-- Add pointers to each of these extensions -->
 - [x] Make a Markdown compatible diagram with the Mermaid extension
