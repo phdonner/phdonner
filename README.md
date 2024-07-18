@@ -59,7 +59,7 @@ This small NOSTERIIHI sub-project will gradually evolve into a bilingual tutoria
 
 ## The workflow
 
-Planning is a conceptual activity. To be efficient, we could outline of the various workflows which can be followed in order to arrive at a solution. The following diagram will hopefully guide our work. 
+Planning is a conceptual activity. To be efficient, we could prepare an outline of the various workflows which can be followed in order to arrive at a solution to the problem. The following diagram will hopefully guide our work. 
 
 ```mermaid
 flowchart LR
