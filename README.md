@@ -103,7 +103,7 @@ Please, have a closer look at the details of this topic by navigating the [Markd
 
 ### 🔗 Links to Markdown articles
 
-[Markdown](https://daringfireball.net/projects/markdown/)
+[Markdown](https://daringfireball.net/projects/markdown/)  
 by John Gruber, 2004
 
 [Markdown Guide](https://www.markdownguide.org/getting-started/)  
