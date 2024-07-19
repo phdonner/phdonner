@@ -172,6 +172,8 @@ Here are a few examples of the kind advantages that you can achieve with VS exte
 - [x] Make a Markdown compatible diagram with the Mermaid extension
 - [ ] Convert your Markdown document to PDF
 
+<!-- Providing a spelling checker could be yet another useful extension -->
+
 > [!TIP]
 > If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code without delving into the intricacies of the tool. Replace the `.com` extension of your GitHub repository web address with `.dev`. Like this: Change github.com/`<your GitHub name>` to github.dev/`<your GitHub name>`. This loads the contents of your page into a browser version of Visual Studio Code.
 
