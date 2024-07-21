@@ -62,6 +62,7 @@ This small NOSTERIIHI sub-project will gradually evolve into a bilingual tutoria
 Planning is a conceptual activity. To be efficient, we could prepare an outline of the various workflows which can be followed in order to arrive at a solution to the problem. The following diagram will hopefully guide our work. 
 
 ```mermaid
+%%{init: {'theme':'forest'}}%%
 flowchart LR
     id1([Markdown])
     id2(GitHub)
