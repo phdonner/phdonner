@@ -53,6 +53,8 @@ It could be useful to be able to jot down preliminary thoughts, interesting sour
 
 In line with earlier work, the tutorial will be published at least in English and Finnish. This is not a unique undertaking, but the aim presents a couple of challenges. It is assumed that this problem has already been tackled in the GitHub community. After assessing those solutions, an attempt will be made to define a set of good practices to be used in other aspects of the project. Perhaps we will be able to reproduce the content in other languages, as well.
 
+### 📋 Tasks
+
 - [ ] Create a Finnish version of the NOSTERIIHI project site
 - [ ] Create an English version of the preparatory NOSTERIIHI project outline
 - [ ] Implement an internationalized subdomain name system suitable for Finnish villages
@@ -66,6 +68,7 @@ When I started this README I received a lot of redundant images, which looked li
 * 📚 Literature
 * 📹 Video content
 * 🔗 References
+* 📋 Tasks
 
 As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
 
