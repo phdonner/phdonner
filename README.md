@@ -113,6 +113,9 @@ by Matt Cone
 [Markdown tutorial](https://www.markdowntutorial.com/)
 <!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
 
+[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
+at learn.microsoft.com
+
 ### 📚 References on Markdown
 
 _The Markdown Guide_  
