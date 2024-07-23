@@ -102,7 +102,7 @@ However, you should notice that the two resources - Markdown and HTML - serve di
 
 Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
-### 🔗 Links to Markdown articles
+### 🔗 Links to Markdown web resources
 
 [Markdown](https://daringfireball.net/projects/markdown/)  
 by John Gruber, 2004.
