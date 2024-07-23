@@ -167,9 +167,9 @@ by Reynald Adolphe‬.
 
 PowerShell is a scripting language created by developers at Microsoft, but nowadays maintained by an open-source community with MS support. A quite remarkable change of focus came about when this undertaking shook off its narrow roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time the Raspberry Pi installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with automation needs (perhaps even on a cross-platform basis).
 
-Check out the details by delving into the [PowerShell section](powershell.md) of this introduction.
-
 ### 🔗 Links to PowerShell documentation
+
+Check out details of PowerShell automation by delving into the [PowerShell section](powershell.md) of the NOSTERIIHI report.
 
 [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 at learn.microsoft.com.
