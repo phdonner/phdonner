@@ -101,9 +101,9 @@ Please, have a closer look at the details of this topic by navigating the [Markd
 
 ## Git and GitHub
 
-*Git* is a command language for the safe creation and maintenance of documents. It provides elegant mechanisms for _version control_. It handles the many updates of the document in an invisible document hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
+**Git** is a command language for the safe creation and maintenance of documents. The command language was developed by Finnish Linus Torvalds as an aid in creating the Linux operating system. It provides an elegant mechanisms for _version control_. Git handles update history in an invisible file hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
 
-*GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, the subscriber gets access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. Let's try to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
+*GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, the subscriber gets access to a number of bonus features which are not available to the ordinary registered user. There or other similar services with varying focus. Let's try to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
 ### 🔗 Links to Git and GitHub introductions
 
