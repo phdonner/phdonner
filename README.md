@@ -169,7 +169,7 @@ PowerShell is a scripting language created by developers at Microsoft, but nowad
 
 ### 🔗 Links to PowerShell documentation
 
-Check out details of PowerShell Markup automation by delving into the [PowerShell section](powershell.md) of the NOSTERIIHI report.
+Check out details of PowerShell Markdown automation by delving into the [PowerShell section](powershell.md) of the NOSTERIIHI report.
 
 [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
 at learn.microsoft.com.
