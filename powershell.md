@@ -2,6 +2,7 @@
 
 ## Outline
 
+### ✍🏽
 <!-- This is a placeholder for PowerShell content on this site -->
 
 <!-- Consider consluting the MS PowerShell style guide:                                                                                        -->
