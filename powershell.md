@@ -38,7 +38,7 @@ Use the copy functionality of the code window above (upper right hand corner) an
 
 ---
 
-## Conversion from Markdown to HTML fragment
+## Convert from Markdown to HTML fragment
 
 Most useful is the PowerShell conversion command `ConvertFrom-Markdown` which translates a Markdown page into HTML usable at your WWW site. 
 
@@ -60,7 +60,7 @@ The file actually contains only a HTML fragment, without even the `<html>` and `
 
 ---
 
-## Conversion from Markdown to a VT100 encoded string
+## Convert from Markdown to a VT100 encoded string
 
 This variation is useful in a configuration equipped with a VT100 console. This is the case if development work is e.g. carried out on the Visual Studio Code IDE.
 
