@@ -1,11 +1,13 @@
 # NOSTERIIHI PowerShell automation
 
+## Outline
+
 <!-- This is a placeholder for PowerShell content on this site -->
 
 <!-- Consider consluting the MS PowerShell style guide:                                                                                        -->
 <!-- https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/powershell-style-guide?view=powershell-7.4  etc. -->
 
- ## 📋 Tasks
+### 📋 Tasks
 
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
