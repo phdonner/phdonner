@@ -10,9 +10,6 @@ The NOSTERIIHI project selected quick production of HTML pages as a test case of
 [NOSTERIIHI introduction to Markdown](https://github.com/phdonner#markdown)  
 at github.com
 
-[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
-at learn.microsoft.com
-
 ---
 
 ## Text to HTML
