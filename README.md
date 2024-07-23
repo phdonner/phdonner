@@ -16,7 +16,7 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 ---
 
-## The information society
+## The self-reliant information society
 
 Our project is called NOSTERIIHI, literally the 'uplift barn' while also aluding to brainstorming (fin. 'aivoriihi'). The project is based on the assumption that we are experiencing the first phases of an emerging new mode of production. In the _information society_, many or perhaps most aspects of production are somehow dependent on information technology. Rural inhabitants in our environment don't want to be spectators of that process, but active agents. Deep understanding and early adoption of the new tools of production can be an asset in rural, scarcely populated environments.
 
