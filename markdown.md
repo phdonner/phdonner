@@ -95,7 +95,7 @@ This diagramming and charting functionality depends on a programming resource ca
  ### 📋 Tasks
 
 - [ ] Find a way of activating Mermaid nodes on GitHub
-- [ ] Hide the Mermaid view control box
+- [ ] Hide the GitHub Mermaid view control box
 
 <!-- The first matter is being developed on two GitHub discussion threads:  -->
 <!-- https://github.com/orgs/community/discussions/46096                    -->
