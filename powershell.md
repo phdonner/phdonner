@@ -1,4 +1,4 @@
-# NOSTERIIHI PowerShell
+# NOSTERIIHI PowerShell automation
 
 <!-- This is a placeholder for PowerShell content on this site -->
 
