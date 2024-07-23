@@ -92,7 +92,7 @@ mindmap
 
 This diagramming and charting functionality depends on a programming resource called JavaScript. In order to use such mindmaps outside GitHub, we would need to know how the Mermaid package is installed on the local machine and on our web server.
 
- 📋 Tasks
+ ### 📋 Tasks
 
 - [ ] Find a way of activating Mermaid nodes on GitHub
 - [ ] Hide the Mermaid view control box
