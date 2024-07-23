@@ -101,7 +101,7 @@ Please, have a closer look at the details of this topic by navigating the [Markd
 
 ## Git and GitHub
 
-**Git** is a command language for the safe creation and maintenance of documents. The command language was developed by Finnish Linus Torvalds as an aid in creating the Linux operating system. It provides an elegant mechanisms for _version control_. Git handles update history in an invisible file hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
+_Git_ is a command language for the safe creation and maintenance of documents. The command language was developed by Finnish Linus Torvalds as an aid in creating the Linux operating system. It provides an elegant mechanisms for _version control_. Git handles update history in an invisible file hidden in the file system. By documenting the various stages of the update history, the user will be able to easily retrieve earlier versions. _Collaboration_ is an other aspect of the development process that Git facilitates. Developers can work concurrently on various aspects of the content without the risk of colliding updates.
 
 *GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, the subscriber gets access to a number of bonus features which are not available to the ordinary registered user. There or other similar services with varying focus. Let's try to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
@@ -141,7 +141,7 @@ Before the appearance of the open-source Linux operating system, Microsoft Windo
 
 Dependency on proprietary arrangements is, however, in the long run a stumbling block for any non-profit oriented developer. Therefore, the initiative to place both the Visual Studio Integrated Development Environment (IDE) and the PowerShell scripting environment into the domain of open-source and cross-platform development were most welcome moves.
 
-Visual Studio (VS) is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions, including many extensions which improve VS Markdown functionality. For instance, [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) is a Markdown linting and style checking tool which includes a library of rules to encourage standards and consistency for Markdown files. This improves the readability of the authors Markdown files.
+_Visual Studio_ (VS) is an extensible tool written by developers for the developer community. This implies that there is a plentitude of extensions, including many extensions which improve VS Markdown functionality. For instance, [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) is a Markdown linting and style checking tool which includes a library of rules to encourage standards and consistency for Markdown files. This improves the readability of the authors Markdown files.
 
 ### 📋 Tasks
 
@@ -165,7 +165,7 @@ by Reynald Adolphe‬.
 
 ## Render and transform Markdown into HTML with PowerShell 
 
-PowerShell is a scripting language created by developers at Microsoft, but nowadays maintained by an open-source community with MS support. A quite remarkable change of focus came about when this undertaking shook off its narrow roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time the Raspberry Pi installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with automation needs (perhaps even on a cross-platform basis).
+_PowerShell_ is a scripting language created by developers at Microsoft, but nowadays maintained by a wide open-source community with MS support. A quite remarkable change of focus came about when this undertaking shook off its narrow roots and turned into a cross-platform language, which is nowadays available for Windows, Apple and Linux operating systems. Raspberry OS support was initially experimental, but since some time the Raspberry Pi installations have been quite stable. As an extension to the Visual Studio Code integrated development environment, PowerShell has become a viable tool for users and administrators with automation needs (perhaps even on a cross-platform basis).
 
 ### 🔗 Links to PowerShell documentation
 
