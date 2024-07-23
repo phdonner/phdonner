@@ -8,6 +8,7 @@ The NOSTERIIHI project selected quick production of HTML pages as a test case of
 <!-- They should be evaluated                                                    -->
 
 [Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)
+at learn.microsoft.com
 
 ---
 
