@@ -7,7 +7,10 @@ The NOSTERIIHI project selected quick production of HTML pages as a test case of
 <!-- Markdown in the WordPress: 57 (15.05.2024)                                  -->
 <!-- They should be evaluated                                                    -->
 
-[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)
+[NOSTERIIHI Markdown introduction](https://github.com/phdonner#markdown)  
+at github.com
+
+[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
 at learn.microsoft.com
 
 ---
