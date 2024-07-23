@@ -105,7 +105,7 @@ Please, have a closer look at the details of this topic by navigating the [Markd
 
 *GitHub* is a free resource, where developers of open-source code and documents can create and share new content. By paying a modest yearly fee, the subscriber gets access to a number of extra features which are not available to the ordinary registered user. There or other similar services with varying focus. Let's try to discover how Git, GitHub and related open-source tools and services could be beneficial in information society construction. 
 
-### 🔗 Links to Git and GitHub articles
+### 🔗 Links to Git and GitHub introductions
 
 [Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 by Ihechikara Vincent Abba
