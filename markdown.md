@@ -21,6 +21,8 @@ The TextToHtml utility was a necessity for speedy HTML page production in docume
 
 While providing the fundamentals of the procedures of writing Markup documents, we will also delve into some special topics of Markup which can be useful in making Information Society construction a trend in rural development and other collaborative efforts.
 
+### 📋 Tasks
+
 Here are some of the topics to be covered:
 
 - [x] [Comments in Markdown](#comments-in-markdown)
