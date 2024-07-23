@@ -91,9 +91,7 @@ The next subheadings are a list of some of the topics and immediate tasks that w
 
 ## Markdown
 
-Markdown is intended to be as easy-to-read and easy-to-write way of indicating style in a character coded environment. Although Markdown is easy to learn, it can still become a rather powerful resource in information society construction. 
-
-Although Markdown is easy to learn, it can still become a powerful resource in information society construction. That is why Markdown was selected to be the test case for the use of automation in rural information society construction.
+Markdown is intended to be as easy-to-read and easy-to-write way of indicating style in a character coded environment. Although Markdown is easy to learn, it can still become a rather powerful resource in information society construction. Although Markdown is easy to learn, it can still become a powerful resource in information society construction. That is why Markdown was selected to be the test case for the use of automation in rural development.
 
 ### 🔗 Links to Markdown web resources
 
