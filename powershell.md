@@ -5,9 +5,11 @@
 <!-- Consider consluting the MS PowerShell style guide:                                                                                        -->
 <!-- https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/powershell-style-guide?view=powershell-7.4  etc. -->
 
+ ## 📋 Tasks
+
 Here I will present details on PowerShell Markdown functionality, including sections on:
 
-* Demonstrate how code and text fragments can be assembled to a full HTML document
++ [ ] Demonstrate how code and text fragments can be assembled to a full HTML document
 * Find out how to define Web page style with Cascaded Style Sheets (CSS) and PowerShell 
 * Extend Markdown with PowerShell table functionality
 * Convert Markdown to PDF
