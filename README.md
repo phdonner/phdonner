@@ -91,38 +91,11 @@ The next subheadings are a list of some of the topics and immediate tasks that w
 
 ## Markdown
 
-Although Markdown is easy to learn, it can still become a rather powerful resource in information society construction. This is how the author of Markup, John Gruber describes the philosophy behind the language:
-
-> Markdown is intended to be as easy-to-read and easy-to-write as is feasible.  
-> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. 
-
-Apart from providing ways of organizing the content in individual documents, it is handy in preparing web pages, writing email, making task lists and so forth. [Learn 10 basic notations](https://www.markdownguide.org/basic-syntax/) and you might quickly discover a number of real life applications. Have a look at the [GitHub Markdown sample page](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee) and push the 'Raw' button to see what the Markdown source document looks like.
-
-However, you should notice that the two resources - Markdown and HTML - serve diverse ends: Markdown gives us a quick way of organizing the structure of documents. HTML provides, on the other hand, all the bells and whistles needed to produce a print-ready document. Don't think that we are advocating the sole use of Markdown. You will see that the two approaches can, in fact, support one another.
-
-Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
+Markdown is intended to be as easy-to-read and easy-to-write way of indicating style in a character coded environment. Although Markdown is easy to learn, it can still become a rather powerful resource in information society construction. 
 
 ### 🔗 Links to Markdown web resources
 
-[Markdown](https://daringfireball.net/projects/markdown/)  
-by John Gruber, 2004.
-
-[Markdown Guide](https://www.markdownguide.org/getting-started/)  
-by Matt Cone
-
-[Markdown tutorial](https://www.markdowntutorial.com/)
-<!-- Tarjoaa localisoitua sisältöä. Tuota suomenkielinen versio -->
-
-[Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)  
-at learn.microsoft.com
-
-### 📚 References on Markdown
-
-_The Markdown Guide_  
-by Matt Cone, 2020.
-
-_Using Markdown: A Short Instruction Guide_  
-by William Dyer, 2018.
+Please, have a closer look at the details of this topic by navigating the [Markdown page](markdown.md) of the NOSTERIIHI project.
 
 ---
 
