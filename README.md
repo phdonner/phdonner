@@ -123,7 +123,7 @@ by Ray Yao, 2021.
 
 ---
 
-## Markdown WWW pages at GitHub
+## Publish Markdown WWW pages at GitHub
 
 There is a special section of GitHub, located at pages.github.com which is dedicated to WWW publication. Navigate to the [GitHub pages](https://pages.github.com/), where you can find a tutorial which introduces ways of constructing a site for your personal use or for your organization. Alternatively the pages can become a forum for discussion of your project.
 
