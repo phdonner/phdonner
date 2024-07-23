@@ -33,7 +33,7 @@ by Jeremy Rifkin, 2015.
 
 This is a personal undertaking which contributes to the NOSTERIIHI smart rural development project. It could be important to state an example of how bottom-up oriented, open-source, voluntary collaboration can be a smart concept which wins over passivating, profit-based and top-down controlled work. 
 
-I would certainly like to collaborate with other developers, who are willing to contribute in transforming automation into a way of empowering rural developers. Welcome to the zero-margin collaborative community.
+I would certainly like to collaborate with other developers, who are willing to contribute in transforming automation into a way of empowering rural developers. Welcome to the rural zero marginal cost collaborative community.
 
 ---
 
