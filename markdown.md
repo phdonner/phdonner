@@ -1,7 +1,5 @@
 # NOSTERIIHI Markdown
 
-The NOSTERIIHI project selected quick production of HTML pages as a test case of presenting collaborative information society procedures; how to design open-source tools, man-made assets of the Information Society. While also being conceptual in essence, such tools provide a concrete starting point to understand what Information society construction is all about. This is in contrast with the abstract and mystified reality currently described as digitisation and artificial intelligence.
-
 Although Markdown is easy to learn, it can still become a powerful resource in information society construction. This is how the author of Markup, John Gruber describes the philosophy behind the language:
 
 > Markdown is intended to be as easy-to-read and easy-to-write as is feasible.  
