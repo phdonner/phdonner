@@ -43,7 +43,7 @@ Software development is in itself a conceptua activity. At best, it provides abs
 
 It could be practical to start quite modestly by producing a straightforward case, which would prove that there is nothing very mystical about automation.The production of _HTML_ coded web pages has been a rather complicated and error prone process. _Markdown_ is a notation procedure which was invented in the early years of the millenium. However, it is only during the last few years that the technique has become widely popular among developers. One of the reasons, is that GitHub and some other developer resources adopted Markdown as a resource for quick production of Web pages. That is how a couple of resources were aligned to support the process of transforming Markdown to HTML.
  
-This small NOSTERIIHI sub-project will gradually evolve into a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages for use in the WWW. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
+This small NOSTERIIHI project will gradually evolve into a bilingual tutorial on methods of setting up a low-cost computer environment, which enables rural developers to produce HTML pages for use in the WWW. This task will be achieved without resorting to commercial services, such as Facebook or WhatsApp. Let's see where the project takes us.
 
 <!-- Follow up with a breakdown of the basic concepts:   -->
 <!-- HTML the marking language to make WWW pages         -->
