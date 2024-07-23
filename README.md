@@ -154,7 +154,7 @@ Here are a few examples of the kind advantages that you can achieve with VS exte
 <!-- Providing a spelling checker could be yet another useful extension -->
 
 > [!TIP]
-> If you are already a registered GitHub user, you can experience the functionality of Visual Studio Code without delving into the intricacies of the tool. Replace the `.com` extension of your GitHub repository web address with `.dev`. Like this: Change github.com/`<your GitHub name>` to github.dev/`<your GitHub name>`. This loads the contents of your page into a browser version of Visual Studio Code.
+> If you are already a registered GitHub user, you can experience some aspects of Visual Studio Code functionality without delving into all intricacies of the tool. Replace the `.com` extension of your GitHub repository web address with `.dev`. Proceed like this: Change github.com/`<your GitHub name>` to github.dev/`<your GitHub name>`. This loads the contents of your page into a browser version of Visual Studio Code.
 
 ### 📹 Tutorial videos on use of Markdown with Visual Studio Code
 
