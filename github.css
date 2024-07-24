@@ -1,0 +1,446 @@
+/* Light and Dark themes */
+
+:root {
+    --color-fg-default: #24292f;
+    --color-fg-disabled: rgba(36, 41, 47, 0.6); /* #24292f */
+    --color-border-default: #d0d7de;
+    --color-border-muted: hsla(210, 18%, 87%, 1);
+    --color-neutral-muted: rgba(175, 184, 193, 0.2);
+    --color-canvas-subtle: #f6f8fa;
+    --formatting-opacity: 0.3;
+    --content-opacity: 0.65;
+}
+
+:root body.dark {
+    --color-fg-default: #c9d1d9;
+    --color-fg-disabled: rgba(201, 209, 217, 0.6); /* #c9d1d9 */
+    --color-border-default: #30363d;
+    --color-border-muted: #21262d;
+    --color-neutral-muted: rgba(110, 118, 129, 0.4);
+    --color-canvas-subtle: #161b22;
+}
+
+/* Fonts */
+
+body #editor .CodeMirror-line,
+body #editor .CodeMirror .cm-comment,
+body #editor .CodeMirror .cm-fenced-code,
+body #editor .CodeMirror .cm-inline-math,
+body #editor .CodeMirror .cm-formatting-list-ul,
+body #editor .CodeMirror .cm-formatting-list-ol,
+body #editor .CodeMirror .cm-quote,
+body.dark #editor .CodeMirror-line,
+body.dark #editor .CodeMirror .cm-comment,
+body.dark #editor .CodeMirror .cm-fenced-code,
+body.dark #editor .CodeMirror .cm-inline-math,
+body.dark #editor .CodeMirror .cm-formatting-list-ul,
+body.dark #editor .CodeMirror .cm-formatting-list-ol,
+body.dark #editor .CodeMirror .cm-quote {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    line-height: 1.5;
+    color: var(--color-fg-default);
+}
+
+body #editor .CodeMirror .cm-comment,
+body #editor .CodeMirror .cm-fenced-code,
+body #editor .CodeMirror .cm-inline-math,
+body #editor .cm-formatting-code-block.cm-formatting-code-block-open,
+body #editor .cm-formatting-code-block.cm-formatting-code-block-close,
+body #editor .cm-zkn-id,
+body #editor .cm-zkn-link,
+body #editor .cm-zkn-link-formatting,
+body #editor .cma code {
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace !important;
+}
+
+/* Container */
+
+body #editor .CodeMirror-sizer {
+    max-width: 838px;
+}
+
+body #editor .CodeMirror-lines div[role=presentation]::before {
+    content: "";
+    border: 1px solid var(--color-border-default);
+    border-radius: 6px;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    bottom: -30px;
+    right: -30px;
+}
+
+/* Zettelkasten */
+
+body #editor .CodeMirror .cm-zkn-id,
+body.dark #editor .CodeMirror .cm-zkn-id {
+    font-size: 87.5%;
+    opacity: var(--content-opacity);
+    color: var(--c-primary);
+}
+
+body #editor .CodeMirror .cm-zkn-link-formatting,
+body.dark #editor .CodeMirror .cm-zkn-link-formatting {
+    opacity: var(--formatting-opacity);
+    color: var(--c-primary);
+}
+
+body #editor .cm-zkn-link {
+    font-size: 87.5%;
+}
+
+body #editor .cm-zkn-tag {
+    font-weight: 600;
+}
+
+body #editor .CodeMirror .citeproc-citation,
+body.dark #editor .CodeMirror .citeproc-citation {
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+    background-color: var(--color-neutral-muted);
+    color: var(--color-fg-default);
+}
+
+/* Headers */
+
+body #editor .cm-formatting.cm-formatting-header,
+body #editor .CodeMirror .cm-formatting-code {
+    opacity: var(--formatting-opacity);
+}
+
+body #editor .cm-header {
+    font-weight: 600;
+}
+
+body #editor .cm-strong.cm-header,
+body.dark #editor .cm-strong.cm-header {
+    font-weight: 700;
+}
+
+body #editor .CodeMirror .heading-tag {
+    opacity: var(--content-opacity);
+    color: var(--c-primary) !important;
+}
+
+body #editor .CodeMirror .CodeMirror-foldmarker,
+body.dark #editor .CodeMirror .CodeMirror-foldmarker {
+    color: var(--color-fg-disabled);
+    background-color: var(--color-neutral-muted);
+    padding-top: 0.15em;
+    padding-bottom: 0.09em;
+    border-radius: 6px;
+}
+
+body #editor .size-header-1,
+body #editor .size-header-2,
+body #editor .size-header-3,
+body #editor .size-header-4,
+body #editor .size-header-5,
+body #editor .size-header-6 {
+    padding-bottom: 16px;
+}
+
+body #editor .size-header-1 .CodeMirror-line,
+body #editor .size-header-2 .CodeMirror-line,
+body #editor .size-header-3 .CodeMirror-line,
+body #editor .size-header-4 .CodeMirror-line,
+body #editor .size-header-5 .CodeMirror-line,
+body #editor .size-header-6 .CodeMirror-line {
+    position: relative;
+    line-height: 1.25
+}
+
+body #editor .size-header-1 pre.CodeMirror-line::after,
+body #editor .size-header-2 pre.CodeMirror-line::after {
+    content: "";
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid var(--color-border-muted);
+    position: absolute;
+    bottom: 0;
+}
+
+body #editor .cma code {
+    background-color: var(--color-neutral-muted);
+    border-radius: 6px;
+    padding-right: 0.2em;
+    padding-left: 0.2em;
+}
+
+/* Header level 1 */
+
+body #editor .size-header-1 pre.CodeMirror-line {
+    padding-bottom: 0.3em;
+    font-size: 32px;
+}
+
+body #editor .size-header-1 .CodeMirror-gutter-elt {
+    top: -2px;
+}
+
+/* Header level 2 */
+
+body #editor .size-header-2 pre.CodeMirror-line {
+    padding-bottom: 0.3em;
+    font-size: 24px;
+}
+
+body #editor .size-header-2 .CodeMirror-gutter-elt {
+    top: -5px;
+}
+
+/* Header level 3 */
+
+body #editor .size-header-3 pre.CodeMirror-line {
+    font-size: 20px;
+}
+
+body #editor .size-header-3 .CodeMirror-gutter-elt {
+    top: -3px;
+}
+
+/* Header level 4 */
+
+body #editor .size-header-4 pre.CodeMirror-line {
+    font-size: 16px;
+}
+
+body #editor .size-header-4 .CodeMirror-gutter-elt {
+    top: -2px;
+}
+
+/* Header level 5 */
+
+body #editor .size-header-5 pre.CodeMirror-line {
+    font-size: 14px;
+}
+
+body #editor .size-header-5 .CodeMirror-gutter-elt {
+    top: -3px;
+}
+
+/* Header level 6 */
+
+body #editor .size-header-6 pre.CodeMirror-line {
+    font-size: 13.6px;
+}
+
+body #editor .size-header-6 .CodeMirror-gutter-elt {
+    top: -3.5px;
+}
+
+/* Horizontal line */
+
+body #editor .CodeMirror .cm-hr {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    color: rgba(0, 0, 0, 0);
+    vertical-align: baseline;
+}
+
+body #editor .CodeMirror .cm-hr::before {
+    content: "";
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: calc(50% - 2px);
+    border-bottom: 4px solid var(--color-border-default);
+}
+
+/* Quotation */
+
+body #editor .cm-formatting.cm-formatting-quote.cm-quote {
+    color: rgba(0, 0, 0, 0);
+    opacity: 1;
+    width: 20px;
+    display: inline-block;
+}
+
+body #editor .cm-formatting.cm-formatting-quote::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: calc(21.62px - 4px);
+    border-left: 4px solid var(--color-border-default);
+}
+
+body #editor .cm-quote {
+    color: var(--color-fg-default);
+    opacity: 1;
+    vertical-align: baseline;
+}
+
+body #editor .cm-formatting.cm-formatting-quote.cm-quote + .cm-quote:not(.cm-formatting) {
+    margin-left: -2.62px;
+}
+
+/* Text format */
+
+body #editor .cm-formatting.cm-formatting-em,
+body #editor .cm-formatting.cm-formatting-strong,
+body #editor.cm-formatting.cm-formatting-strikethrough,
+body #editor .cm-formatting.cm-formatting-code {
+    opacity: var(--formatting-opacity);
+}
+
+/* Links and email */
+
+body #editor .cma {
+    font-weight: 600 !important;
+}
+
+/* Bold format */
+
+body #editor .cm-strong {
+    font-weight: 600;
+}
+
+/* Monospaced */
+
+body #editor .CodeMirror .cm-comment:not(.cm-formatting):not(.cm-fenced-code),
+body.dark #editor .CodeMirror .cm-comment:not(.cm-formatting):not(.cm-fenced-code) {
+    background-color: var(--color-neutral-muted);
+    color: var(--color-fg-default);
+}
+
+body #editor .CodeMirror .cm-formatting ~ 
+  .cm-comment:not(.cm-formatting):not(.cm-fenced-code) {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding-right: 0.2em;
+}
+
+body #editor .CodeMirror .cm-formatting + 
+  .cm-comment:not(.cm-formatting):not(.cm-fenced-code) {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    padding-left: 0.2em;
+}
+
+body #editor .CodeMirror .cm-formatting + 
+  .cm-comment:not(.cm-formatting):not(.cm-fenced-code):not(.cm-header) {
+    font-size: 87.5%;
+    padding: .2em .4em;
+}
+
+body #editor .cma code {
+    background-color: var(--color-neutral-muted);
+    padding: .175em .35em;
+}
+
+body #editor .cm-fenced-code ~ .CodeMirror-widget .cma code,
+body #editor .cm-header ~ .CodeMirror-widget .cma code {
+    padding: 0 0.2em;
+}
+
+body #editor .CodeMirror .code-block-line,
+body.dark #editor .CodeMirror .code-block-line {
+    font-size: 100%;
+    /*max-width: 736px;*/
+    background-color: var(--color-canvas-subtle);
+}
+
+body #editor .CodeMirror .code-block-line pre.CodeMirror-line {
+    padding: 0 16px;
+}
+
+body #editor .CodeMirror .code-block-first-line pre.CodeMirror-line {
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding-top: 16px;
+}
+
+body #editor .CodeMirror .code-block-last-line pre.CodeMirror-line {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding-bottom: 16px;
+}
+
+body #editor .cm-formatting-code-block.cm-formatting-code-block-open,
+body #editor .cm-formatting-code-block.cm-formatting-code-block-close {
+    opacity: var(--formatting-opacity)
+}
+
+body #editor .code-block-line .CodeMirror-gutter-wrapper {
+    top: -3px;
+}
+
+/* Lists */
+
+body #editor .CodeMirror .cm-formatting-list-ol,
+body #editor .CodeMirror .cm-formatting-list-ul {
+    display: inline-block;
+    text-indent: 0;
+    text-align: right;
+    margin-top: 4px;
+    position: relative;
+}
+
+body #editor .CodeMirror .cm-formatting-list-ol,
+body.dark #editor .CodeMirror .cm-formatting-list-ol {
+    color: var(--color-fg-default) !important;
+    min-width: 27px;
+    transform: translate(-1.75px, 0);
+}
+
+body #editor .CodeMirror .cm-formatting-list-ul,
+body.dark #editor .CodeMirror .cm-formatting-list-ul {
+    color: rgba(0, 0, 0, 0) !important;
+    min-width: 17.5px;
+}
+
+body #editor .CodeMirror .cm-formatting-list-ul::before {
+    color: var(--color-fg-default);
+    content: "\2022";
+    /* content: "\25CF"; */
+    position: absolute;
+    right: 8px;
+    top: -7px;
+    font-size: 24px;
+}
+
+body #editor .CodeMirror .cm-formatting-list-ul.cm-variable-3::before {
+    content: "\25E6";
+}
+
+body #editor .CodeMirror
+  .cm-formatting-list-ul:not(.cm-variable-2):not(.cm-variable-3)::before {
+    content: "\25AA";
+}
+
+body #editor .CodeMirror input[type="checkbox"] {
+    margin-top: 1px;
+    margin-left: 2px;
+    margin-right: -1.75px;
+    transform: scale(1.25) translate(-5px, 0);
+    vertical-align: middle;
+}
+
+body #editor .CodeMirror .task-item-done .cm-variable-2,
+body #editor .CodeMirror .task-item-done .cm-variable-3,
+body #editor .CodeMirror .task-item-done .cm-keyword {
+    text-decoration: none !important;
+}
+
+body #editor .CodeMirror-widget ~ .cm-variable-2,
+body #editor .CodeMirror-widget ~ .cm-variable-3,
+body #editor .CodeMirror-widget ~ .cm-keyword {
+    line-height: 28px;
+}
+
+body #editor .cm-formatting-list ~ .CodeMirror-widget ~ .cm-variable-2,
+body #editor .cm-formatting-list ~ .CodeMirror-widget ~ .cm-variable-3,
+body #editor .cm-formatting-list ~ .CodeMirror-widget ~ .cm-keyword {
+    line-height: inherit;
+}
+
+/* Images */
+
+body #editor .CodeMirror .editor-image-container {
+    width: auto;
+    margin-top: 16px;
+}
+
+/* Source: https://github.com/Zettlr/Zettlr/discussions/3693 */
