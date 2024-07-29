@@ -107,7 +107,7 @@ _Git_ is a command language for the safe creation and maintenance of documents. 
 
 ### 🔗 Links to Git and GitHub introductions
 
-[Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+[Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)  
 by Ihechikara Vincent Abba
 
 [Git Tutorial](https://www.w3schools.com/git/)  
