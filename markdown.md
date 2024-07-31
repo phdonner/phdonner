@@ -97,7 +97,7 @@ In line with earlier work, the tutorial will be published at least in English an
 
 ## Emoji fonts in Markdown and on WWW pages
 
-When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. Some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar resources (cf. [Emoji Objects](https://emojipedia.org/objects), [Open Source OpenMoji](https://openmoji.org/) contains literally thousands of them). These emoji characters could be meaningful in the context of our project:
+When I started this README I received a lot of redundant images, which looked like emoji ;) symbols. It would, however, be nice to know where all these decorative characters are coming from: 😕 👔 👗 👋 🌱 🐶 🌼 🌻. Some of them are provided with Microsoft Windows 11 Segoe UI Emoji font and similar resources. These emoji characters could be meaningful in the context of our project:
 
 * 📚 Literature
 * 📹 Video content
@@ -105,6 +105,13 @@ When I started this README I received a lot of redundant images, which looked li
 * 📋 Tasks
 
 As you can see: Here at GitHub the emoji characters can be embedded straight into the Markdown source document. For the time being, these fonts aren't apparently portable out of the box. While experimenting with this interesting resource you may discover that the characters are sometimes rendered with colors, and sometimes in black and white. The meaning of some of the mini sized images may be a bit difficult to figure out. Therefore mastering Markdown font sizes matters. Meanwhile, we should also validate that our solution renders Emoji characters correctly in other environments, outside GitHub.
+
+### 🔗 Emoji web resources
+
+There are a number of free emoji fonts which contain literally thousands of symbols.
+
+* [Emoji Objects](https://emojipedia.org/objects)
+* [Open Source OpenMoji](https://openmoji.org/)
 
 ---
 
