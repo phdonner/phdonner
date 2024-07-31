@@ -110,8 +110,10 @@ As you can see: Here at GitHub the emoji characters can be embedded straight int
 
 There are a number of free emoji fonts which contain literally thousands of symbols.
 
-* [Emoji Objects](https://emojipedia.org/objects)
-* [Open Source OpenMoji](https://openmoji.org/)
+[Emoji Objects](https://emojipedia.org/objects)  
+at Emojipedia
+
+[Open Source OpenMoji](https://openmoji.org/)
 
 ---
 
