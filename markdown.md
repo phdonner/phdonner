@@ -62,6 +62,7 @@ Here are some of the topics to be covered:
 - [x] [Comments in Markdown](#comments-in-markdown)
 - [ ] [Multilingual Markdown](#multilingual-markdown)
 - [x] [Emoji fonts in Markdown and on WWW pages](#emoji-fonts-in-markdown-and-on-www-pages)
+- [ ] Including mathematical expressions in Markdown
 - [x] [Mermaid diagrams: A way of visualizing conceptual frameworks](#mermaid-diagrams-a-way-of-visualizing-conceptual-frameworks)
 
 ---
