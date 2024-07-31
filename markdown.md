@@ -113,7 +113,7 @@ There are a number of free emoji fonts which contain literally thousands of symb
 [Emoji Objects](https://emojipedia.org/objects)  
 at Emojipedia
 
-[Open Source OpenMoji](https://openmoji.org/)
+[Open Source OpenMoji](https://openmoji.org/)  
 at Hoch­schule für Gestal­tung, Schwä­bisch Gmünd
 
 ---
