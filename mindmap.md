@@ -1,6 +1,7 @@
 # A Mermaid mindmap experiment
 
-```mindmap
+```mermaid
+mindmap
 (Default)
 (Square)
 (Rounded)
