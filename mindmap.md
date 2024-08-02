@@ -2,11 +2,11 @@
 
 ```mermaid
 mindmap
-(Default)
-(Square)
-(Rounded)
-(Circle)
-(Bang)
-(Cloud)
-(Hexagon)
+  (Default)
+  (Square)
+  (Rounded)
+  (Circle)
+  (Bang)
+  (Cloud)
+  (Hexagon)
 ```
