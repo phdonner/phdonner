@@ -1,0 +1,9 @@
+```mindmap
+        (Default)
+        (Square)
+        (Rounded)
+        (Circle)
+        (Bang)
+        (Cloud)
+        (Hexagon)
+```
