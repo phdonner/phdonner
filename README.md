@@ -20,6 +20,8 @@ Currently, the cooperative is preparing a smart rural project. Please study the 
 
 This is how you should be able to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is quite some quantity of spam among those mails, but I'm reading the messages of that post office once or twice every week. 
 
+Find further specifics in profile section of this page
+
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
