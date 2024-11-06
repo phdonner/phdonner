@@ -2,7 +2,7 @@
 
 Hi. My name is Philip. Here at GitHub I'm phdonner, but on most other platforms I use the signature pdonner. My native language is Swedish, but was born in Tampere, which is a predominantly Finnish city. Therefore most of the school mates had bilingual competence as a gift. That's a good start in learning English, German, French, Spanish, Kiswahili... other languages.
 
-I've been working in English speaking communities, but any unidiomatic use of English will hopefully still be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed corrections will be most gratefully received.
+I've been working in English speaking communities, but any unidiomatic use of English will hopefully be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed corrections will be most gratefully received.
 
 ---
 
