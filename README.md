@@ -24,7 +24,7 @@ Please also study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi
 
 This is how you should be able to reach me: Try pdonner at the cooperative's nettinoste.fi domain. There is quite some quantity of spam among those mails, but I'm reading the messages of that post office once or twice every week. 
 
-Please, find further specifics of my contact information in the profile section of this page
+Please, find further specifics of my [contact information in the profile section](https://github.com/phdonner) of this page
 
 <!---
 phdonner/phdonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
