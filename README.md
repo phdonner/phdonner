@@ -14,7 +14,7 @@ Currently, the cooperative is preparing a smart rural project.
 
 * This preparatory effort is called NOSTERIIHI 
 
-Please also study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at all the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions. Internationalism and [multilingual methods](https://github.com/phdonner/phdonner/blob/main/markdown.md#multilingual-markdown) are actually vital themes of the site. That is a energy-consuming, but important aspect of our task.
+Please also study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at all the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions. Internationalism and [multilingual methods](https://github.com/phdonner/phdonner/blob/main/markdown.md#multilingual-markdown) are actually vital themes of the site. That is an energy-consuming, but important aspect of our task.
 
 ![Nettinoste banner](https://nettinoste.fi/wp/wp-content/uploads/2014/05/copy-header_1260_240.png)
 
