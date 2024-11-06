@@ -17,7 +17,9 @@ Please, also study [the cooperative's Smart Rural 27 pages](https://nettinoste.f
 ---
 ## GitHub and NOSTERIIHI
 
-Currently, the cooperative is preparing a set of smart rural projects. The funding organisation, the Finnish Food Authority, wants us to pay careful attention to project design. The aim is to arrive at coherent set of sub-projects. This planning effort is called NOSTERIIHI wich is described in the repository with the same name.
+Currently, the cooperative is preparing a set of smart rural projects. The funding organisation, the Finnish Food Authority, wants us to pay careful attention to project design. The preparatory project aims at clarifying the basic concepts of rural smart development work. With a minor budget, it also offers an opportunity of validating project ideas and defining an effective strategy for future projects. The aim is to arrive at coherent set of sub-projects. 
+
+This planning effort is called NOSTERIIHI which is described in the repository with the same name.
 
 ---
 
