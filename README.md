@@ -23,7 +23,8 @@ This planning effort is called [NOSTERIIHI](https://github.com/phdonner/NOSTERII
 
 Right now we have been working in two directions:
 
-* An [introduction to Markdown](https://github.com/phdonner/Markdown/), which offers a quick gateway to the World Wide Web editing for rural web publishers
+* An [introduction to Markdown](https://github.com/phdonner/Markdown/) offers a quick gateway to the World Wide Web editing for rural web publishers
+* The outline [MarkdownProduction](https://github.com/phdonner/MarkdownProduction/) presents tasks involved in designing a low-cost editing, rendering and publishing system.
 
 ---
 
