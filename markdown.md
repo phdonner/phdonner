@@ -90,6 +90,7 @@ In line with earlier work, the tutorial will be published at least in English an
 
 ### 📋 Tasks
 
+- [ ] Experiment with shields.io functionality
 - [ ] Create a Finnish version of the NOSTERIIHI project site
 - [ ] Create an English version of the preparatory NOSTERIIHI project outline
 - [ ] Implement an internationalized subdomain name system suitable for Finnish villages
