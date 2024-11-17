@@ -95,6 +95,10 @@ In line with earlier work, the tutorial will be published at least in English an
 - [ ] Create an English version of the preparatory NOSTERIIHI project outline
 - [ ] Implement an internationalized subdomain name system suitable for Finnish villages
 
+WWW resources
+
+[Shields.io](https://shields.io) home page
+
 ---
 
 ## Emoji fonts in Markdown and on WWW pages
