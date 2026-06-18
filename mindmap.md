@@ -3,7 +3,6 @@
 ```mermaid
 mindmap
   (Default)
-  (Square)
   (Rounded)
   (Circle)
   (Bang)
