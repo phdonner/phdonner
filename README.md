@@ -33,7 +33,12 @@ GitHub.com uses extensively Mardown formatting. It is a simple and quick to lear
 
 ### Studies in Markdown notation
 
-Right now we have been working in two directions:
+Right now we have been working in these directions:
+
+* Markdown tutorials for rural publishers
+* Publishing workflow research
+* Designing processes of Smart Rural project planning
+* Producing an easy-going way of producing multilingual documentation
 
 * An [introduction to Markdown](https://github.com/phdonner/Markdown/) is a quick gateway to the World Wide Web editing for rural web publishers
 * The outline [MarkdownProduction](https://github.com/phdonner/MarkdownProduction/) presents tasks involved in designing a low-cost editing, rendering and publishing system.
