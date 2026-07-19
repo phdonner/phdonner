@@ -13,7 +13,9 @@ I've been working in English speaking communities, but any unidiomatic use of En
 
 ### The village network cooperative
 
-I'm helping a rural Finnish fiber-optic cooperative develop open tools and documentation that make operating community-owned broadband networks easier. I'm doing this on as a more or less full-time voluntary work task for our rural network cooperative: Kuhmon kyläverkko-osuuskunta (formerly Luoteis-Kuhmon kyläverkko-osuuskunta) mainly operates in the north-western part of Kuhmo municipality. Kuhmo is located at the Russian border right on latitude 64, which divides Finland into two equally sized parts. 
+I'm helping a rural Finnish fiber-optic cooperative develop open tools and documentation that make operating community-owned broadband networks easier. I'm doing this on as a more or less full-time voluntary work task for our rural network cooperative. 
+
+_Kuhmon kyläverkko-osuuskunta_ (formerly Luoteis-Kuhmon kyläverkko-osuuskunta) mainly operates in the north-western part of Kuhmo municipality. Kuhmo is located at the Russian border right on latitude 64, which divides Finland into two equally sized parts. 
 
 Please study [the cooperative's Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at all the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions. Internationalism and [multilingual methods](https://github.com/phdonner/phdonner/blob/main/markdown.md#multilingual-markdown) are actually vital themes of the site. That is an energy-consuming, but important aspect of our task.
 
