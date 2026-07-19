@@ -13,18 +13,18 @@ I've been working in English speaking communities, but any unidiomatic use of En
 
 My native language is Swedish, but was born in Tampere, which is a predominantly Finnish city. Therefore most of the school mates had bilingual competence as a gift. That's a good start in learning English, German, French, Spanish, Kiswahili... other languages.
 
-Native:
-• Swedish
+Native:  
+- Swedish
 
-Working languages:
-• Finnish
-• English
+Working languages:  
+- Finnish
+- English
 
-Reading knowledge:
-• Swahili
-• German
-• French
-• Spanish.
+Reading knowledge:  
+- Swahili
+- German
+- French
+- Spanish.
 
 ## Current work
 
