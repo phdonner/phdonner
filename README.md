@@ -27,7 +27,7 @@ This planning effort is called [NOSTERIIHI](https://github.com/phdonner/NOSTERII
 
 GitHub.com uses extensively Mardown formatting. It is a simple and quick to learn web page authoring without having to learn HTML (which is of course very efficient way of defining the detaile style of documents before publication and printing). 
 
-### Studies Markdown notation
+### Studies in Markdown notation
 
 Right now we have been working in two directions:
 
