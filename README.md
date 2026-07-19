@@ -1,5 +1,5 @@
 > **Philip Donner**
-> I'm Philip Donner a volunteer software developer, technical writer, and multilingual documentation enthusiast.
+> I'm Philip Donner, a volunteer software developer, technical writer, and multilingual documentation enthusiast.
 >
 > Currently developing tools for rural fiber-optic network management and smart village projects in Finland.
 
