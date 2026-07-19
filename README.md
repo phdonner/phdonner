@@ -21,10 +21,14 @@ Currently, the cooperative is preparing a set of smart rural projects. The fundi
 
 This planning effort is called [NOSTERIIHI](https://github.com/phdonner/NOSTERIIHI). It is described in the repository with the same name.
 
+GitHub.com uses extensively Mardown formatting. It is a simple and quick to learn web page authoring without having to learn HTML (which is of course very efficient way of defining the detaile style of documents before publication and printing). 
+
 Right now we have been working in two directions:
 
 * An [introduction to Markdown](https://github.com/phdonner/Markdown/) is a quick gateway to the World Wide Web editing for rural web publishers
 * The outline [MarkdownProduction](https://github.com/phdonner/MarkdownProduction/) presents tasks involved in designing a low-cost editing, rendering and publishing system.
+
+Later we will study other aspects of the cooperative's rural development work.
 
 ---
 
