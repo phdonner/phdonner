@@ -8,7 +8,7 @@
 
 Here at GitHub I'm phdonner, but on most other platforms I use the signature pdonner. 
 
-I've been working in English speaking communities, but any unidiomatic use of English will hopefully be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed language correction suggestions will be most gratefully received
+I've been working in English speaking communities, but any unidiomatic use of English will hopefully be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed language correction suggestions will be most gratefully received.
 
 ## Languages
 
