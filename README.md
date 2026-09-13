@@ -51,7 +51,7 @@ GitHub.com uses extensively Mardown formatting. It is a simple and quick to lear
 
 ### Studies in Markdown notation
 
-Right now we have been working in these directions:
+We have been working in these directions:
 
 * Markdown tutorials for rural publishers
 * Publishing workflow research
