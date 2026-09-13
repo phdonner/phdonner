@@ -2,7 +2,7 @@
 > I'm Philip Donner, a volunteer software developer, technical writer, and multilingual documentation enthusiast.
 > My current ambition is to develop tools for rural fiber-optic network management and smart village projects in Finland.
 > RuralDevKit is a framework which is meant to become a cross-platform package for our own village network cooperative,
-> but perhaps later on for developers with similar interests in Finland and in the EU. 
+> but perhaps later on for Finnish developers with similar interests. 
 
 ## About me
 
